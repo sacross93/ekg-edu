@@ -1,0 +1,214 @@
+{
+  "timestamp": "2025-10-22T17:19:37.890573",
+  "user_query": "엔비디아 주가 예측",
+  "keywords_used": [
+    "NVIDIA AI chip performance",
+    "NVDA GPU market share forecast",
+    "NVIDIA China export control impact",
+    "NVDA regulation changes semiconductor",
+    "NVIDIA earnings call transcript",
+    "NVDA revenue growth projections",
+    "NVIDIA partnership autonomous driving",
+    "NVDA deal data center market",
+    "NVIDIA TSMC manufacturing capacity",
+    "NVDA supply chain constraints update"
+  ],
+  "total_articles": 20,
+  "news_packs": [
+    {
+      "pack_id": "pack_001",
+      "event_type": "partnership",
+      "summary": "AMD secured a significant data center deal with OpenAI, which NVIDIA's CEO found surprising. This deal has implications for the AI hardware market, where NVIDIA has been a dominant player. News of the deal impacted NVIDIA's stock, though Wall Street maintains a positive outlook on NVDA.",
+      "relevance_score": 0.8,
+      "article_indices": [
+        0,
+        16,
+        19
+      ]
+    },
+    {
+      "pack_id": "pack_002",
+      "event_type": "product",
+      "summary": "Nvidia has launched the DGX Spark, which it is marketing as the 'world’s smallest AI supercomputer'. Intel is also making claims about its graphics cards, suggesting they can achieve high gaming frame rates without needing an Nvidia GPU. This challenges Nvidia's previous claims about multi-frame generation.",
+      "relevance_score": 0.9,
+      "article_indices": [
+        8,
+        17
+      ]
+    },
+    {
+      "pack_id": "pack_003",
+      "event_type": "policy",
+      "summary": "The U.S. Senate has passed AI chip export limits on Nvidia and AMD to China. This action follows President Trump's threats of tariff hikes on Chinese imports, especially regarding rare earth metals, leading to a decline in the US stock market.",
+      "relevance_score": 0.95,
+      "article_indices": [
+        12,
+        13
+      ]
+    },
+    {
+      "pack_id": "pack_004",
+      "event_type": "general",
+      "summary": "HSBC upgraded NVIDIA Corporation to a 'Buy' rating, raising the price target to $320. Mizuho also raised its Nvidia price target to $225, calling it the AI market leader. Hedge funds consider NVIDIA one of the best-performing NASDAQ stocks. Investing $1,000 in Nvidia stock five years ago would now be worth over $12,000.",
+      "relevance_score": 1.0,
+      "article_indices": [
+        1,
+        2,
+        5,
+        10
+      ]
+    },
+    {
+      "pack_id": "pack_005",
+      "event_type": "general",
+      "summary": "A study indicates that tech companies dominate the top 10 brands of 2025. The AI 'megatrend' is bolstering the confidence of companies like TSMC, which has raised its outlook. However, some analysts are questioning whether NVDA can maintain its stock price if it loses its monopoly in AI GPUs.",
+      "relevance_score": 0.7,
+      "article_indices": [
+        4,
+        6,
+        9
+      ]
+    },
+    {
+      "pack_id": "pack_006",
+      "event_type": "general",
+      "summary": "Nvidia and AMD are central to the AI hardware revolution, leading to the question of which stock offers better investment potential. An article discusses Nvidia-backed AI stock getting a boost from CoreWeave. There is discussion about how Nvidia is viewed as the poster child of the AI boom.",
+      "relevance_score": 0.9,
+      "article_indices": [
+        7,
+        11
+      ]
+    },
+    {
+      "pack_id": "pack_007",
+      "event_type": "general",
+      "summary": "Lyft is investing in AI-driven robotaxis with a goal to surpass Uber by 2027. Meanwhile, Intel is working to expand its chipmaking capabilities and venture into graphics cards. The changing landscape of chipmakers is impacting giants like Intel, which once dominated the market.",
+      "relevance_score": 0.3,
+      "article_indices": [
+        14,
+        15,
+        18
+      ]
+    }
+  ],
+  "prediction": {
+    "direction": "Up",
+    "confidence": 43,
+    "timeframe": 7,
+    "positive_factors": [
+      "[general] 자동 분석 실패, 단순 추정"
+    ],
+    "negative_factors": [],
+    "summary": "- PARTNERSHIP: AMD secured a significant data center deal with OpenAI, which NVIDIA's CEO found surprising. This de...\n- PRODUCT: Nvidia has launched the DGX Spark, which it is marketing as the 'world’s smallest AI supercomputer'....\n- POLICY: The U.S. Senate has passed AI chip export limits on Nvidia and AMD to China. This action follows Pre...",
+    "is_valid": false,
+    "reason_if_invalid": "신뢰도 43%로 임계치 60% 미달"
+  },
+  "analysis_details": {
+    "overall_sentiment": 0.5857142857142856,
+    "event_scores": {
+      "general": 0.5857142857142856
+    },
+    "validation_notes": [
+      "출처 신뢰도: 50%",
+      "일관성 점수: 73%",
+      "최신성: 0%"
+    ],
+    "contra_arguments": [
+      "1. **OpenAI와의 계약이 AMD에게 긍정적이지만, 계약 규모와 수익성이 불확실하며 NVIDIA의 시장 지배력을 단기간에 위협하기 어려울 수 있음.** (긍정적 요인 과대평가 가능성)",
+      "2. **미국 정부의 대중국 AI 칩 수출 제한은 AMD와 NVIDIA 모두에게 부정적인 영향을 미칠 수 있으며, 이는 예측 방향과 감성 점수에 반영되지 않음.** (부정적 요인 간과 및 시장 리스크)",
+      "3. **Intel의 그래픽 카드 성능 향상 주장은 경쟁 심화를 의미하며, 이는 AMD와 NVIDIA 모두에게 위협 요인임. 특히 시장 점유율 경쟁에서 압박을 받을 수 있음.** (시장 맥락에서 놓친 리스크)"
+    ]
+  },
+  "raw_articles": [
+    {
+      "title": "The Biggest Winners from AMD’s (Nasdaq: AMD) Massive OpenAI Data Center Deal",
+      "description": "AMD (Nasdaq: AMD) signed a massive deal with OpenAI that was announced before the market opened on October 6th. Since that date, shares of AMD are up an astounding 42% in under two weeks. That’s especially notable since shares of rival NVIDIA (Nasdaq: NVDA) a…",
+      "url": "https://biztoc.com/x/3e1eac0c4099ece0",
+      "publishedAt": "2025-10-18T20:41:55Z",
+      "source": "Biztoc.com",
+      "content": "AMD (Nasdaq: AMD) signed a massive deal with OpenAI that was announced before the market opened on October 6th. Since that date, shares of AMD are up an astounding 42% in under two weeks. Thats espec… [+145 chars]",
+      "full_content": "BizToc\nMENU\nWhy is OpenAI launching a new AI-powered browser?\nWhat drove Warner Bros. Discovery's decision to sell?\nHow did GM’s earnings beat impact its stock?\nWhy is Beyond Meat’s stock surging recently?\nWhat caused Netflix’s recent earnings miss?\nHow are tariffs affecting US automakers?\nWhy is Microsoft CEO’s pay reaching record highs?\nThe Biggest Winners from AMD’s (Nasdaq: AMD) Massive OpenAI Data Center Deal\n247wallst.com/investing/2025/10/18/the-biggest-winners-from-amds-nasdaq-amd-massive-openai-data-center-deal\n\nAMD (Nasdaq: AMD) signed a massive deal with OpenAI that was announced before the market opened on October 6th. Since that date, shares of AMD are up an astounding 42% in under two weeks. That’s especially notable since shares of rival NVIDIA (Nasdaq: NVDA) are down more than 2% during…\n\nThis story appeared on 247wallst.com, 2025-10-18 19:44:33.\nX/TWITTER\nBLUESKY\nFACEBOOK\nRSS FEED\nABOUT  ⁞  API  ⁞  CONTACT  ⁞  LEGAL  ⁞  STATUS\nThe Entire Business World on a Single Page. Free to Use →"
+    },
+    {
+      "title": "HSBC Upgrades NVIDIA Corporation (NVDA) To Buy, Lifts Price Target to $320",
+      "description": "NVIDIA Corporation (NASDAQ:NVDA) is among the 14 Best Big Name Stocks to Invest in Right Now. On October 15, HSBC analysts led by Frank Lee upgraded the...",
+      "url": "https://finance.yahoo.com/news/hsbc-upgrades-nvidia-corporation-nvda-054141044.html",
+      "publishedAt": "2025-10-18T05:41:41Z",
+      "source": "Yahoo Entertainment",
+      "content": "NVIDIA Corporation (NASDAQ:NVDA) is among the 14 Best Big Name Stocks to Invest in Right Now. On October 15, HSBC analysts led by Frank Lee upgraded the stock to Buy from Hold, citing their expectati… [+1746 chars]",
+      "full_content": "HSBC Upgrades NVIDIA Corporation (NVDA) To Buy, Lifts Price Target to $320\nNo compatible source was found for this media.\nError Code: 400-4\nSession Id: 8naof2yi (Pls: fd9a1942-92be-4d17-89cf-dc0d1166e1c6)\nAshar Jawad\nSat, October 18, 2025 at 2:41 PM GMT+9 2 min read\nIn this article:\nNVDA\n\nNVIDIA Corporation (NASDAQ:NVDA) is among the 14 Best Big Name Stocks to Invest in Right Now. On October 15, HSBC analysts led by Frank Lee upgraded the stock to Buy from Hold, citing their expectation that the total addressable market (TAM) for AI GPUs will continue to increase beyond hyperscalers, which should result in continuous earnings growth.\n\nThe firm also lifted its price target for the stock to $320 from $200, representing an upside of nearly 78% from Tuesday’s close. Lee and his team said they had made the adjustments on the back of increasing FY27 estimates for GPU TAM compared to previous expectations, resulting in an upward revision in their data center revenue forecast for FY27 to $351 billion, which is 36% above consensus projections.\n\nThe HSBC analysts also anticipate that a potential trade deal between the United States and China could result in easing of China GPU uncertainties, which could help NVIDIA Corporation (NASDAQ:NVDA) see a demand recovery in the Chinese market.\n\nMoreover, the analysts raised their earnings forecast for Nvidia in FY27 to $8.75 per share, higher than the average street projections of $6.48. They said that this encouraging outlook was backed by surging demand across the global AI chip market.\n\nNVIDIA Corporation (NASDAQ:NVDA) is a full-stack computing infrastructure company. It is the go-to company for firms looking for GPUs and semiconductors as they increase spending on artificial intelligence.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 9 Defense Stocks That Will Skyrocket and 11 Best Military Drone Stocks to Buy According to Hedge Funds\n\nDisclosure: None.\n\nTerms and Privacy Policy\nPrivacy Dashboard"
+    },
+    {
+      "title": "$1,000 In Nvidia Stock 5 Years Ago Is Now $12,000 — NVDA Still A Buy",
+      "description": "A $1,000 investment in Nvidia stock five years ago is now worth more than $12,000. Here’s how the chipmaker built its AI dominance and why it still has room to grow.",
+      "url": "https://www.forbes.com/sites/investor-hub/article/1000-in-nvidia-nvda-stock-5-years-ago-is-now-12000-still-buy/",
+      "publishedAt": "2025-10-16T21:45:44Z",
+      "source": "Forbes",
+      "content": "Nvidia CEO Jensen Huang has touted the transformational potential of artificial intelligence long before it went mainstream.\r\nAFP via Getty Images\r\nA $1,000 investment in Nvidia (NVDA) five years ago… [+17641 chars]",
+      "full_content": "A $1,000 investment in Nvidia stock five years ago is now worth more than $12,000. Here’s how the chipmaker built its AI dominance and why it still has room to grow."
+    },
+    {
+      "title": "TSMC’s Results Add Another Feather in the Hat of AI Bulls—What You Need to Know",
+      "description": "Nvidia supplier Taiwan Semiconductor Manufacturing Co. posted record earnings and lifted its outlook.",
+      "url": "https://www.investopedia.com/tsmc-results-add-another-feather-in-the-hat-of-ai-bulls-what-you-need-to-know-11830920",
+      "publishedAt": "2025-10-16T15:38:16Z",
+      "source": "Investopedia",
+      "content": "BING-JHEN HONG / Getty Images\r\n TSMC's stock has climbed over 50% in 2025\r\n<ul><li>Taiwan Semiconductor Manufacturing Co. reported record quarterly earnings that topped analysts' estimates.\r\n</li><li… [+1427 chars]",
+      "full_content": "www.investopedia.com\n\nVerifying you are human. This may take a few seconds.\n\nwww.investopedia.com needs to review the security of your connection before proceeding.\nRay ID: 99278fd8dc41aa3c\nPerformance & security by Cloudflare"
+    },
+    {
+      "title": "TSMC Raises Outlook In Vote of Confidence for AI ‘Megatrend’",
+      "description": "TSMC, the go-to chipmaker for Apple Inc. and  Nvidia Corp., now foresees mid-30% growth in annual sales, up about a few percentage points from previously...",
+      "url": "https://finance.yahoo.com/news/tsmc-raises-outlook-vote-confidence-082941630.html",
+      "publishedAt": "2025-10-16T08:29:41Z",
+      "source": "Yahoo Entertainment",
+      "content": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. hiked its projection for 2025 revenue growth for the second time this year, reinforcing hopes in the longevity of a global boom in AI spending.\r\n… [+3604 chars]",
+      "full_content": "TSMC Raises Outlook in Vote of Confidence for AI ‘Megatrend’\nNo compatible source was found for this media.\nError Code: 400-4\nSession Id: 3abfz9lq (Pls: a1ffea06-ee68-4e5b-806c-45b3e4e4b7ba)\nDebby Wu\nThu, October 16, 2025 at 5:29 PM GMT+9 3 min read\nIn this article:\nTSM\nTSMWF\n2330.TW\nAAPL\nNVDA\n\n(Bloomberg) -- Taiwan Semiconductor Manufacturing Co. hiked its projection for 2025 revenue growth for the second time this year, reinforcing hopes in the longevity of a global boom in AI spending.\n\nTSMC, the go-to chipmaker for Apple Inc. and  Nvidia Corp., now foresees mid-30% growth in annual sales, up about a few percentage points from previously. The outlook hike was striking given Taiwan’s biggest company last raised its guidance just three months ago, igniting a rally that’s tacked on more than $260 billion to its market value.\n\nMost Read from Bloomberg\n\nAffordable Housing Left Vulnerable After Trump Fires Building Inspectors\n\nLos Angeles County Declares State of Emergency Over ICE Raids\n\nHUD Issues Layoff Notices, Targeting Fair Housing Staff With Deep Cuts\n\nWith Roles as Civic Hubs, Libraries Turn Over a New Page\n\nThere’s a Better Way to Win on Traffic Safety\n\nThe results underscore how TSMC remains one of the bigger beneficiaries of a spending spree on AI infrastructure that’s expected to cross the $1 trillion mark in coming years. From OpenAI to Oracle Corp., industry leaders are racing to build the data centers that underpin the technology in the post-ChatGPT era. TSMC’s higher projection followed a better-than-anticipated 39% jump in net income to NT$452.3 billion ($14.8 billion) in the September quarter.\n\nOn Thursday, TSMC Chief Executive Officer C.C. Wei reiterated his industry was grappling with geopolitical uncertainty, and acknowledged how US sanctions have begun to close off swathes of China, the world’s largest semiconductor arena. Businesses across the global semiconductor supply chain are bracing for disruptions after Beijing imposed curbs on rare-earth mineral exports — essential to most technology devices — and the US responded with additional tariffs and restrictions on software sales to the Asian nation.\n\nBut Wei argued that AI demand would make up for that lost market. “Conviction in the AI megatrend is strengthening,” he told analysts after outlining earnings. “The AI demand actually continues to be very strong, stronger than we thought three months ago.”\n\nClick here for a blog from the earnings briefing.\n\nAs the world’s most advanced manufacturer of semiconductors, TSMC plays a dominant role in an AI investment frenzy with Nvidia at its heart. The US company makes the powerful accelerators vital to the training and operation of AI services like ChatGPT and Google’s Gemini.\n\nYet that investment rush, coupled with a rapid climb in tech stock valuations, has drawn comparisons to the dotcom bubble given the persistent absence of mainstream AI applications and services. TSMC is in constant touch with customers to try and map out fut"
+    },
+    {
+      "title": "Mizuho Raises Nvidia (NVDA) Price Target to $225, Calls It the AI Market Leader",
+      "description": "NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks in Focus on Wall Street. On October 13, Mizuho reiterated Nvidia as Outperform and raised its price ...",
+      "url": "https://finance.yahoo.com/news/mizuho-raises-nvidia-nvda-price-155429559.html",
+      "publishedAt": "2025-10-15T15:54:29Z",
+      "source": "Yahoo Entertainment",
+      "content": "NVIDIA Corporation (NASDAQ:NVDA) is one of theAI Stocks in Focus on Wall Street. On October 13, Mizuho reiterated Nvidia as Outperform and raised its price target $225 per share from $205.\r\nMizuho an… [+1318 chars]",
+      "full_content": "Mizuho Raises Nvidia (NVDA) Price Target to $225, Calls It the AI Market Leader\nNo compatible source was found for this media.\nError Code: 400-4\nSession Id: uuazqo34 (Pls: 48eef90d-5c7d-4c2a-83a9-5e8c79ba4ea4)\nGhazal Ahmed\nThu, October 16, 2025 at 12:54 AM GMT+9 1 min read\nIn this article:\nNVDA\nAVGO\nAMD\n\nNVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks in Focus on Wall Street. On October 13, Mizuho reiterated Nvidia as Outperform and raised its price target $225 per share from $205.\n\nMizuho analyst Vijay Rakesh continues to view Nvidia as a leader in the artificial intelligence market, with the firm forecasting more than $300 billion in AI data center revenue by 2028.\n\nAccording to Rakesh, “Neocloud budgets” are “increasingly strained by Rubin/Instinct pricing as customers sharpen focus on ROI,” which signifies competitive pricing pressures in the market.\n\n“We also see Neocloud budgets increasingly strained by Rubin/Instinct pricing as customers sharpen focus on ROI. We continue to see AVGO, NVDA best-positioned while AMD’s OAI deal suggest upside potential. Raising AMD Estimates, PT to $275; Raising NVDA PT to $225. We continue to see NVDA the AI leader with ~$300B+ 2028 AI DC revenue.”\n\nNVIDIA Corporation (NASDAQ:NVDA) specializes in AI-driven solutions, offering platforms for data centers, self-driving cars, robotics, and cloud services.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 10 AI Stocks Every Investor Should Watch and 10 Trending AI Stocks on Wall Street\n\nDisclosure: None.\n\nTerms and Privacy Policy\nPrivacy Dashboard"
+    },
+    {
+      "title": "Tech companies dominate the top 10 brands of 2025, a new study says",
+      "description": "A new Interbrand study syas tech companies lead the top 10 brands of 2025, with Nvidia and Instagram showing significant growth.",
+      "url": "https://www.businessinsider.com/the-top-10-brands-of-2025-a-new-study-says-2025-10",
+      "publishedAt": "2025-10-15T12:58:23Z",
+      "source": "Business Insider",
+      "content": "Tech companies continued to dominate the top 10 list.Camille Cohen / AFP\r\n<ul><li>Interbrand's Best Global Brands list has a combined value of $3.6 trillion.</li><li>Nvidia and Instagram grew quickly… [+3563 chars]",
+      "full_content": "Subscribe\nNewsletters\nDOW JONES\n+0.47%\nNASDAQ\n-0.06%\nS&P 500\n0%\nAAPL\n+0.02%\nNVDA\n-0.76%\nMSFT\n+0.12%\nAMZN\n+1.73%\nMETA\n+0.34%\nTSLA\n-0.76%\nDOW JONES\n+0.47%\nNASDAQ\n-0.06%\nS&P 500\n0%\nAAPL\n+0.02%\nNVDA\n-0.76%\nMSFT\n+0.12%\nAMZN\n+1.73%\nMETA\n+0.34%\nTSLA\n-0.76%\nBusiness\nStrategy\nEconomy\nFinance\nRetail\nAdvertising\nCareers\nMedia\nReal Estate\nSmall Business\nThe Better Work Project\nPersonal Finance\nTech\nScience\nAI\nEnterprise\nTransportation\nStartups\nInnovation\nMarkets\nStocks\nIndices\nCommodities\nCrypto\nCurrencies\nETFs\nLifestyle\nEntertainment\nCulture\nTravel\nFood\nHealth\nParenting\nPolitics\nMilitary & Defense\nLaw\nEducation\nReviews\nTech\nStreaming\nTickets\nHome\nKitchen\nStyle\nBeauty\nGifts\nDeals\nVideo\nBig Business\nFood Wars\nSo Expensive\nStill Standing\nBoot Camp\nSubscribe\nLog in\nNewsletters\nUS edition\nDeutschland & Österreich\nEspaña\nJapan\nPolska\nTW 全球中文版\nGet the app\nRETAIL\nTech companies dominate the top 10 brands of 2025, a new study says\nBy Jordan Hart \nFollow\nNEW Follow authors and never miss a story! \nFollow Jordan Hart\n\nEvery time Jordan publishes a story, you’ll get an alert straight to your inbox!\n\nEnter your email\n\nSign up\n\nBy clicking “Sign up”, you agree to receive emails from Business Insider. In addition, you accept Insider’s Terms of Service and Privacy Policy.\n\nTech companies continued to dominate the top 10 list. Camille Cohen / AFP\nOct 15, 2025, 9:58 PM GMT+9\nShare\nSave\nSaved\nAdd us on \nThis story is available exclusively to Business Insider subscribers. Become an Insider and start reading now. Have an account? Log in.\n\nRecommended video\nApple\nInstagram\nMicrosoft\nMore \nRead next\nBusiness Insider tells the innovative stories you want to know\nBusiness Insider tells the innovative stories you want to know\nBusiness Insider tells the innovative stories you want to know\nBusiness Insider tells the innovative stories you want to know\nLegal & Privacy\nTerms of Service\nTerms of Sale\nPrivacy Policy\nAccessibility\nCode of Ethics Policy\nReprints & Permissions\nDisclaimer\nAdvertising Policies\nConflict of Interest Policy\nCommerce Policy\nCoupons Privacy Policy\nCoupons Terms\nCompany\nAbout Us\nCareers\nAdvertise With Us\nContact Us\nNews Tips\nCompany News\nAwards\nMasthead\nOther\nSitemap\nStock quotes by finanzen.net\nCorrections\nAI Use\nInternational Editions\nAT\nDE\nES\nJP\nPL\nTW\nCopyright © 2025 Insider Inc. All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy.\n\nJump to\n\nMain content\nSearch\nAccount"
+    },
+    {
+      "title": "NVDA vs. AMD: Which AI Hardware Stock Has Better Investment Potential?",
+      "description": "NVIDIA's dominance in AI chips, booming data center sales and expanding partnerships give it an edge over AMD in the race for AI hardware leadership.",
+      "url": "https://finance.yahoo.com/news/nvda-vs-amd-ai-hardware-123500021.html",
+      "publishedAt": "2025-10-15T12:35:00Z",
+      "source": "Yahoo Entertainment",
+      "content": "NVIDIA Corporation NVDA and Advanced Micro Devices, Inc. AMD sit at the center of the artificial intelligence (AI) hardware revolution. Both are crucial players in the semiconductor space, competing … [+5531 chars]",
+      "full_content": "NVDA vs. AMD: Which AI Hardware Stock Has Better Investment Potential?\nAnirudha Bhagat\nWed, October 15, 2025 at 9:35 PM GMT+9 5 min read\nIn this article:\nNVDA\nAMD\n\nNVIDIA Corporation NVDA and Advanced Micro Devices, Inc. AMD sit at the center of the artificial intelligence (AI) hardware revolution. Both are crucial players in the semiconductor space, competing directly in high-performance computing, graphics processing units (GPUs) and AI accelerators.\n\nWhile both companies are deeply committed to powering the next wave of AI computing, investors must be wondering which stock looks like the stronger bet right now. Let’s break down their fundamentals, growth drivers and valuations to find out.\n\nNVDA: The Undisputed AI GPU Leader\n\nNVIDIA remains the backbone of the AI boom, with its GPUs powering everything from cloud data centers to self-driving vehicles. The company continues to dominate the AI infrastructure market, driven by explosive demand from cloud providers and enterprises. In the second quarter of fiscal 2026, NVIDIA’s data center revenues surged 56% year over year to $41.1 billion, underlining the strength of its core business.\n\nThe company’s new GPU architectures, Hopper 200 and Blackwell, are rapidly gaining adoption as customers race to expand AI capabilities. The upcoming Blackwell Ultra and Vera Rubin platforms could further cement NVIDIA’s leadership as the AI hardware race intensifies.\n\nNVIDIA also secured U.S. government approval in August 2025 to sell its H20 chips in China under a revenue-sharing deal, where it pays 15% of Chinese H20 sales to the U.S. government. This move helps NVIDIA regain ground in China, a market that once contributed more than 20% of its revenues but has recently declined due to export restrictions. Regaining this access could stabilize a key revenue stream.\n\nFurther, NVIDIA’s expanded partnership with OpenAI, which involves the construction of massive AI data centers powered by NVIDIA systems, is expected to boost long-term demand for its GPUs. Together, these developments reinforce NVIDIA’s position as the dominant supplier of AI chips worldwide.\n\nNVIDIA Corporation Price, Consensus and EPS Surprise\n\nNVIDIA Corporation price-consensus-eps-surprise-chart | NVIDIA Corporation Quote\n\nAMD: A Capable Challenger\n\nAdvanced Micro Devices has transformed from an underdog to a strong competitor in the AI chip ecosystem. Its growing presence spans GPUs, CPUs, networking and AI accelerators, with major advances in both hardware and software.\n\nAdvanced Micro Devices’ latest Instinct MI350X and MI355X GPUs, based on the CDNA-4 architecture, promise exceptional performance and energy efficiency. AMD’s open-source ROCm 7.0 AI software platform also supports popular models like LLaMA and DeepSeek, enhancing its competitiveness.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashboard"
+    },
+    {
+      "title": "Nvidia DGX Spark hits market as 'world’s smallest AI supercomputer'",
+      "description": "Nvidia's tiniest supercomputer officially hits the market on Wednesday. The DGX Spark, which Nvidia says offers data center-class performance, packs the...",
+      "url": "https://finance.yahoo.com/news/nvidia-dgx-spark-hits-market-as-worlds-smallest-ai-supercomputer-223050200.html",
+      "publishedAt": "2025-10-13T22:30:50Z",
+      "source": "Yahoo Entertainment",
+      "content": "Nvidia's (NVDA) tiniest supercomputer officially hits the market on Wednesday. The DGX Spark, which Nvidia said offers data center-class performance, packs the company's GB10 Grace Blackwell superchi… [+2432 chars]",
+      "full_content": "Nvidia DGX Spark hits market as 'world’s smallest AI supercomputer'\nNo compatible source was found for this media.\nError Code: 400-4\nSession Id: 3fk5aa8q (Pls: c8a6fa95-de08-4018-8250-d747699a4d10)\nDaniel Howley · Technology Editor\nUpdated October 14, 2025 3 min read\nIn this article:\nNVDA\nOPAI.PVT\nDELL\nCRWV\nAMZN\n\nNvidia's (NVDA) tiniest supercomputer officially hits the market on Wednesday. The DGX Spark, which Nvidia said offers data center-class performance, packs the company's GB10 Grace Blackwell superchip, as well as its ConnectX-7 networking capabilities and software stack.\n\nThe idea is to provide smaller businesses and developers with access to an AI computing system without requiring them to spend thousands on renting AI data center services or buying their own AI servers.\n\nThe Spark is part of a new class of computer Nvidia is rolling out with third-party partners, including ASUS (2357.TW) and Dell (DELL), which will allow customers to develop and use AI models on their own local devices.\n\nNvidia said the Spark can be outfitted with up to 128GB of memory, which should help when running massive AI models.\n\n“In 2016, we built DGX-1 to give AI researchers their own supercomputer. I hand-delivered the first system to Elon [Musk] at a small startup called OpenAI — and from it came ChatGPT, kickstarting the AI revolution,” Nvidia CEO Jensen Huang said in a statement.\n\n“DGX-1 launched the era of AI supercomputers and unlocked the scaling laws that drive modern AI. With DGX Spark, we return to that mission — placing an AI computer in the hands of every developer to ignite the next wave of breakthroughs.”\n\nLike the DGX-1, Huang also hand-delivered one of the first Spark systems to Musk.\n\nNvidia says its Spark desktop is the world's smallest AI supercomputer. (Image: Nvidia) · Nvidia\n\nThe company also has a larger, more powerful DGX Station, which runs on Nvidia's GB300 Grace Blackwell Ultra desktop superchip.\n\nBut don't expect to grab a Spark or Station and start running your video games or other apps. The system runs on Nvidia's own Linux-based DGX OS and its AI software stack and is specifically designed for building and running AI models.\n\nNvidia also said users can connect two Spark systems to allow for even larger AI models with up to 405 billion parameters.\n\nThe Spark and Station are designed to complement Nvidia's existing AI offerings, enabling users to prototype AI models before deploying them more widely.\n\nThe Nvidia Spark next to a desktop monitor. (Image: Nvidia) · Nvidia\n\nNvidia holds the pole position in the AI chip race thanks to both its powerful processors and CUDA software service.\n\nIn addition to its desktop systems, the company continues to ink massive deals with AI companies, including a $100 billion investment in OpenAI (OPAI.PVT) that will see the ChatGPT developer purchase 10 gigawatts of GPUs.\n\nLast month, Nvidia signed a deal that will see CoreWeave (CRWV) purchase $6.3 billion worth of GPUs from the chip giant.\n\nThe com"
+    },
+    {
+      "title": "Can NVDA Still Be a $300 Stock If Nvidia Loses Its Monopoly in AI GPUs?",
+      "description": "While Nvidia’s market share in the AI GPU market might come down, the sheer size of growth in that market means that NVDA stock could still continue to be a ...",
+      "url": "https://www.barchart.com/story/news/35409557/can-nvda-still-be-a-300-stock-if-nvidia-loses-its-monopoly-in-ai-gpus",
+      "publishedAt": "2025-10-13T15:58:32Z",
+      "source": "Barchart.com",
+      "content": "Nvidia (NVDA) has been the largest beneficiary of the artificial intelligence (AI) revolution, with its graphics processing units (GPUs) becoming the bedrock of the technology. The company has had a … [+4614 chars]",
+      "full_content": "403 ERROR\nThe request could not be satisfied.\nRequest blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n\nGenerated by cloudfront (CloudFront)\nRequest ID: DAsJpSzTPzzRqe1jJcAzQyteXrwBaAC6pz7B5dpmA3eGjBwE7BWX3A==\n"
+    }
+  ]
+}

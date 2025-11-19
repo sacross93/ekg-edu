@@ -1,0 +1,27 @@
+[project]
+name = "nvidia-stock-predictor"
+version = "0.1.0"
+description = "NVIDIA stock prediction using LLM and news analysis"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=0.1.0",
+    "langchain-google-genai>=1.0.0",
+    "langgraph>=0.2.0",
+    "google-genai>=1.0.0",
+    "newsapi-python>=0.2.7",
+    "playwright>=1.40.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "langchain-openai>=0.3.35",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+
+
+
+
+
+

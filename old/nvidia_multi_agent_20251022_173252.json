@@ -1,0 +1,223 @@
+{
+  "timestamp": "2025-10-22T17:32:52.315088",
+  "user_query": "엔비디아 주가 예측",
+  "keywords_used": [
+    "NVIDIA AI chip demand",
+    "NVDA Blackwell GPU orders",
+    "NVIDIA China export control",
+    "NVDA US regulation impact",
+    "NVIDIA earnings forecast",
+    "NVDA revenue guidance",
+    "NVIDIA data center partnership",
+    "NVDA cloud customer deals",
+    "NVIDIA TSMC supply chain",
+    "NVDA manufacturing capacity"
+  ],
+  "total_articles": 20,
+  "news_packs": [
+    {
+      "pack_id": "pack_001",
+      "event_type": "stock_analysis",
+      "summary": "Analysts have updated Oracle's stock forecast, citing a 74% gain this year due to its successful pivot into AI infrastructure. Nvidia's stock performance is also highlighted, with an example of a significant return on investment over five years. The broader stock market trends, including the performance of the Dow, S&P 500, and Nasdaq, are also mentioned in the context of regional bank jitters and trade-war anxieties.",
+      "relevance_score": 0.6,
+      "article_indices": [
+        0,
+        5,
+        8,
+        10,
+        16
+      ]
+    },
+    {
+      "pack_id": "pack_002",
+      "event_type": "company_investment",
+      "summary": "An analyst explains Nvidia's strategy of investing in its own customers, highlighting the company's central role in the AI hardware revolution. Nvidia's financial performance has been extraordinary, making it a compelling investment. AMD is presented as another key player in the AI hardware space, prompting a comparison of their investment potential.",
+      "relevance_score": 0.9,
+      "article_indices": [
+        1,
+        18
+      ]
+    },
+    {
+      "pack_id": "pack_003",
+      "event_type": "policy",
+      "summary": "Nvidia's CEO discusses the company's position in China, noting a significant drop in market share due to regulations. The CEO emphasizes the importance of considering the potential harm to both China and America from trade policies. TSMC is tightening its China orders following US sanctions, affecting companies like Huawei proxy Sophgo and Bitmain.",
+      "relevance_score": 0.8,
+      "article_indices": [
+        2,
+        3,
+        13
+      ]
+    },
+    {
+      "pack_id": "pack_004",
+      "event_type": "supply",
+      "summary": "Nvidia and TSMC celebrate the production of the first Nvidia Blackwell wafer in the US. TSMC is accelerating its plans to bring advanced chip technology to its Arizona fab, driven by strong demand for AI products. This includes moving up its 2nm production plans and considering further site expansion beyond its existing $165 billion commitment.",
+      "relevance_score": 0.7,
+      "article_indices": [
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "pack_id": "pack_005",
+      "event_type": "earnings",
+      "summary": "TSMC's results and raised outlook reflect confidence in the AI 'megatrend'. TSMC is raising its revenue forecast based on a bullish outlook for AI. The company's performance is eclipsing trade-war jitters in the stock market.",
+      "relevance_score": 0.6,
+      "article_indices": [
+        12,
+        15,
+        17
+      ]
+    },
+    {
+      "pack_id": "pack_006",
+      "event_type": "general",
+      "summary": "AI is a key driver in the market. Rare earth export controls in China are giving the country dominion over these precious resources, a move with far-reaching implications for the semiconductor industry. Cisco's stock performance is also noted, trading near its 52-week high.",
+      "relevance_score": 0.3,
+      "article_indices": [
+        11,
+        14
+      ]
+    },
+    {
+      "pack_id": "pack_007",
+      "event_type": "product",
+      "summary": "There are reports that MSI denies selling the RTX 5090 in China after pictures surface showing giant pallets of the restricted GPUs in the country. Smugglers may be getting busy again.",
+      "relevance_score": 0.7,
+      "article_indices": [
+        19
+      ]
+    },
+    {
+      "pack_id": "pack_008",
+      "event_type": "general",
+      "summary": "There was an error in retreiving the news from Barchart.com. The request could not be satisfied. There might be too much traffic or a configuration error.",
+      "relevance_score": 0.1,
+      "article_indices": [
+        9
+      ]
+    }
+  ],
+  "prediction": {
+    "direction": "Up",
+    "confidence": 40,
+    "timeframe": 7,
+    "positive_factors": [
+      "[general] 자동 분석 실패, 단순 추정"
+    ],
+    "negative_factors": [],
+    "summary": "- STOCK_ANALYSIS: Analysts have updated Oracle's stock forecast, citing a 74% gain this year due to its successful piv...\n- COMPANY_INVESTMENT: An analyst explains Nvidia's strategy of investing in its own customers, highlighting the company's ...\n- POLICY: Nvidia's CEO discusses the company's position in China, noting a significant drop in market share du...",
+    "is_valid": false,
+    "reason_if_invalid": "신뢰도 40%로 임계치 60% 미달"
+  },
+  "analysis_details": {
+    "overall_sentiment": 0.17500000000000004,
+    "event_scores": {
+      "general": 0.17500000000000004
+    },
+    "validation_notes": [
+      "출처 신뢰도: 50%",
+      "일관성 점수: 67%",
+      "최신성: 0%"
+    ],
+    "contra_arguments": [
+      "1. **Oracle의 AI 인프라 성공이 과대평가되었을 가능성**: 74% 상승이 AI 인프라 때문이라고 단정하기 어려우며, 다른 요인(예: 클라우드 서비스 성장, 비용 절감 노력 등)이 복합적으로 작용했을 수 있습니다. AI 인프라 성과의 지속 가능성을 확인해야 합니다.",
+      "2. **Nvidia의 중국 시장 점유율 하락**: CEO가 언급한 중국 시장 점유율 하락은 단기적인 문제가 아닐 수 있으며, 장기적으로 Nvidia의 전체 수익에 심각한 영향을 미칠 수 있습니다. 이는 감성 분석에 제대로 반영되지 않았을 가능성이 있습니다.",
+      "3. **AI 하드웨어 시장의 경쟁 심화**: Nvidia가 AI 하드웨어 시장에서 선두주자이지만, AMD, Intel 등 경쟁사들의 기술 발전과 시장 진입으로 인해 경쟁이 심화될 수 있습니다. 이는 Nvidia의 성장 잠재력에 제약으로 작용할 수 있으며, 시장 맥락에서 간과된 리스크입니다."
+    ]
+  },
+  "raw_articles": [
+    {
+      "title": "Analysts update Oracle stock forecast",
+      "description": "Since the beginning of the year, Oracle stock has gained 74%. Pivoting to become the artificial intelligence infrastructure build-out leader paid off. On...",
+      "url": "https://www.thestreet.com/technology/analysts-update-oracle-stock-forecast",
+      "publishedAt": "2025-10-20T13:33:00Z",
+      "source": "TheStreet",
+      "content": "Since the beginning of the year, Oracle stock has gained 74%. Pivoting to become the artificial intelligence infrastructure build-out leader paid off.\r\nOn October 16, G42 revealed significant progres… [+3889 chars]",
+      "full_content": "Since the beginning of the year, Oracle stock has gained 74%. Pivoting to become the artificial intelligence infrastructure build-out leader paid off. On..."
+    },
+    {
+      "title": "Analyst Explains Why NVIDIA (NVDA) is Investing In Its Own Customers",
+      "description": "We recently published 10 Trending Stocks to Watch as Brad Gerstner Explains Tailwinds for AI Trade – ’10x Manhattan Project’. NVIDIA Corp (NASDAQ:NVDA) is...",
+      "url": "https://finance.yahoo.com/news/analyst-explains-why-nvidia-nvda-131720993.html",
+      "publishedAt": "2025-10-20T13:17:20Z",
+      "source": "Yahoo Entertainment",
+      "content": "We recently published 10 Trending Stocks to Watch as Brad Gerstner Explains Tailwinds for AI Trade 10x Manhattan Project. NVIDIA Corp (NASDAQ:NVDA) is one of the trending stocks to watch.\r\nJames Van … [+2922 chars]",
+      "full_content": "Analyst Explains Why NVIDIA (NVDA) is Investing In Its Own Customers\nFahad Saleem\nMon, October 20, 2025 at 10:17 PM GMT+9 3 min read\nIn this article:\nNVDA\n\nWe recently published 10 Trending Stocks to Watch as Brad Gerstner Explains Tailwinds for AI Trade – ’10x Manhattan Project’. NVIDIA Corp (NASDAQ:NVDA) is one of the trending stocks to watch.\n\nJames Van Geelen, the founder and portfolio manager at Citrini Research, was recently asked during a Bloomberg podcast why NVIDIA Corp (NASDAQ:NVDA) is investing in its own customers if the demand for its AI chips is real. Here is what Geelen said, focusing on the “not skeptical” view of the matter:\n\n“I could take the very skeptical view or the kind of not skeptical view. The non-skeptical view is the best thing for Nvidia is that we accomplish AGI. So anything that it can do to get us closer to that massive, massive infrastructure that’s required for that is great for them as quickly as possible. As quickly as possible. Because every year that you don’t achieve a GI becomes less likely. So that is maybe the core factor. And then there’s, it’s good for, for them and yeah, the, the and playing into that, the, because this, this isn’t necessarily like the.com bubble because the.com bubble had fiber and then it had, you know, pets.com and, and Amazon and all that stuff. This is all pretty much CapEx Right? Tech is capital intensive again, which means that it’s, it, the bust won’t necessarily be like the.com bubble where it gives the real players time to shine. If the CapEx spending grinds to a halt because the market goes down, that’s the worst thing in the world. So in a way it’s also, it’s in their interest obviously to make sure that that doesn’t happen.”\n\nAnalyst Explains Why NVIDIA (NVDA) is Investing In Its Own Customers\n\nThe current AI boom cycle stems from spending by major tech companies, and Nvidia is the biggest beneficiary of this spending. In Q2 FY2026, three direct customers accounted for 23%, 19%, and 14% of NVDA’s accounts receivable. Almost all of the company’s revenue comes from AI-related infrastructure spending. In the latest quarter, $41.3 billion of the $46.7 billion revenue came from these clients. The music could stop for Nvidia if these major companies decide to slow down their spending amid a lack of ROI. If investors sense a weakness in CapEx spending, and the market begins to waver, NVDA stock price would be the first to see its impact.\n\nBaird Chautauqua International and Global Growth Fund stated the following regarding NVIDIA Corporation (NASDAQ:NVDA) in its second quarter 2025 investor letter:\n\n“NVIDIA Corporation (NASDAQ:NVDA) reported first quarter results that were extremely solid. The company took a write-down on China-specific datacenter products and flushed out any future China contributions from their guidance, following the new export restrictions introduced in April. Demand commentary ex China was extremely encouraging—Nvidia is outgrowing expectations despite supply "
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang: 'At the moment we are 100% out of China... it's important to be mindful that what harms China could oftentimes also harm America'",
+      "description": "'We went from 95% market share to 0%.'",
+      "url": "https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-at-the-moment-we-are-100-percent-out-of-china-its-important-to-be-mindful-that-what-harms-china-could-oftentimes-also-harm-america/",
+      "publishedAt": "2025-10-20T11:45:26Z",
+      "source": "PC Gamer",
+      "content": "Nvidia CEO Jensen Huang spoke at the Citadel Securities Future of Global Markets 2025 conference last week, and would you believe it, most of the conversation centred around AI. However, the NV head … [+3333 chars]",
+      "full_content": "'We went from 95% market share to 0%.'"
+    },
+    {
+      "title": "Exclusive: TSMC tightens China orders after US sanctions; Huawei proxy Sophgo cut off, Bitmain halved",
+      "description": "Fueled by strong orders from Apple and Nvidia, TSMC posted record third-quarter results and raised its full-year US dollar revenue growth forecast to around 35%, targeting about US$122 billion. Yet supply chain sources said Nvidia's rapid contribution growth …",
+      "url": "https://www.digitimes.com/news/a20251020PD201/tsmc-china-huawei-revenue-2025.html",
+      "publishedAt": "2025-10-20T01:55:10Z",
+      "source": "Digitimes",
+      "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]",
+      "full_content": "中文網\nSUBSCRIBE\nTECH\nREGIONS\nRESEARCH\nOPINIONS\nFINANCE\nBIZ FOCUS\nEVENT+\nMULTIMEDIA\nTrending\nNexperia\nWingTech\nMeet the Analysts\nServer EMS Tracker\nRobotics Report\nAI Server Report\nSCMP Bundle\nHome\nTech\nSemiconductors\nExclusive: TSMC tightens China orders after US sanctions; Huawei proxy Sophgo cut off, Bitmain halved\nMonica Chen, Hsinchu; Levi Li, DIGITIMES Asia\nMonday 20 October 2025\n0\n\nCredit: DIGITIMES\n\nFueled by strong orders from Apple and Nvidia, TSMC(2330.TW) posted record third-quarter results and raised its full-year US dollar revenue growth forecast to around 35%, targeting about US$122 billion. Yet supply...\n\nThe article requires paid subscription. Subscribe Now\nLOGIN\nEmail address\nPassword\nSave my User ID and Password\nSIGN IN\nNEW individual users please REGISTER first.\nEnterprise user first-time LOGIN.\nI forgot my ID and/or password?\nMEMBERSHIP BENEFITS\nFull access to articles dating back to 2000.\nReal-time access to the news as it breaks.\nAccess to premium content.\nFull access to Tomorrow's Headlines.\nAsia Supply Chain 250 dataset access.\nRelated stories\nNvidia set to overtake Apple as TSMC's biggest customer in 2025\nTSMC 2025 full-year revenue set to break US$100 billion\nFive key impacts of TSMC's 7nm AI chip sales halt to China\nShow more\nCategories\nChips + components\nIC manufacturing\nTags\n2025\nApple\nAscend\nChina\nchips\ndemand\ngeowatch\ngrowth\nHuawei\nNvidia\nrevenue\nTSMC\nwafer\nCompanies\nTaiwan Semiconductor Manufacturing Company\nShare this article\nPicks for you\nWeekly news roundup: Nvidia rises as TSMC's top customer; Netherlands seizes Nexperia; Google considers MediaTek for next Pixel\nHuawei Cloud CEO demoted over data falsification scandal\nWeekly news roundup: China pushes DUV breakthroughs, Intel and AMD weigh partnership, Arm CEO reflects on Nvidia's strategic pivot\nMicron skips a node? Weighing big bet on 9nm DRAM and US$100B fab future\nRelated topics\nGeoWatch\nHuawei\nGlobal supply chain: China market\nAsia\nTSMC updates\nRegions\nBIZ FOCUS\nOct 2, 10:32\nSK Group partners with OpenAI to advance global AI infrastructure\nWednesday 1 October 2025\nWise Integration Launches First Digital Controller, WiseWare 1.1, for GaN Totem Pole PFC with High Switching Frequency Up to 2 MHz\nWednesday 1 October 2025\nAI Applications, Innovation Empowered! The Fourth GMIF2025 Innovation Summit Successfully Concluded\nWednesday 1 October 2025\nEmbracing WP.29 R155 and R156-Winbond Secure Flash Memory Accelerates Automotive Compliance and Differentiation\nMOST-READ\n7 DAYS NEWS\nHow a viral Taiwan dinner photo put Nvidia and its partners under Washington’s microscope\nExclusive: Intel raises prices of older CPUs by over 10% in 4Q25 amid AI PC demand shortfall\nNetherlands seizes control of Nexperia, deepening Europe-China tech rift\nGlobal memory prices set to surge 15-25% in Q4 amid tightening supply\nTSMC’s 2nm gamble stretches from Hsinchu to Arizona\nJOIN OUR MAILING LIST\nDIGITIMES\nAbout\nAdvertising\nMembership\nTerms & conditions\nPrivacy policy\nCopyright policy\nContac"
+    },
+    {
+      "title": "(PR) NVIDIA and TSMC Celebrate First NVIDIA Blackwell Wafer Produced in the US",
+      "description": "AI has ignited a new industrial revolution. NVIDIA and TSMC are working together to build the infrastructure that powers the world's AI factories, right here in America. NVIDIA founder and CEO Jensen Huang today visited TSMC's semiconductor manufacturing faci…",
+      "url": "https://www.techpowerup.com/342019/nvidia-and-tsmc-celebrate-first-nvidia-blackwell-wafer-produced-in-the-us",
+      "publishedAt": "2025-10-18T18:02:41Z",
+      "source": "Techpowerup.com",
+      "content": "AI has ignited a new industrial revolution. NVIDIA and TSMC are working together to build the infrastructure that powers the world's AI factories, right here in America. NVIDIA founder and CEO Jensen… [+2589 chars]",
+      "full_content": "HOME\nREVIEWS\nFORUMS\nDOWNLOADS\nCASE MOD GALLERY\nDATABASES\nOUR SOFTWARE\nMORE\nCONTACT US\nOct 22nd, 2025 17:31 KST change timezone\nSign in / Register\nLatest GPU Drivers\nNVIDIA GeForce 581.57 WHQL\nAMD Radeon 25.10.1 Beta\nIntel Arc & iGPU 101.8136 Beta\nNew Forum Posts\n17:19 by Waldorf\n5M hdmi cable , is it worth to get a normal copper one or a optical could be better ? both 2.1 (8)\n17:15 by Waldorf\nWhat kind of cases are you guys buying? (81)\n17:15 by Nathaaab\nNew SSD Test System, which CPU to use? (13)\n16:12 by tpa-pr\nWould you consider moving away from Windows? (26)\n15:54 by Chomiq\nGigabyte graphic cards - TIM gel SLIPPAGE problem (261)\n15:41 by Jtuck9\n9070XT or 5070Ti for $140 more (58)\n15:21 by Millennium\nWhat are you playing? (24414)\n15:18 by Millennium\nWhat's your latest tech purchase? (25208)\n15:05 by AusWolf\nAMD RX 9070 XT & RX 9070 non-XT thread (OC, undervolt, benchmarks, ...) (208)\n14:25 by shuffy_losys\n9800x3d Temp (2)\nPopular Reviews\nOct 20th, 2025\nXMG Pro 16 (E25) Review - The High Clocker\nOct 9th, 2025\nBattlefield 6 Performance Benchmark Review - 40+ GPUs Tested\nOct 17th, 2025\nASRock Z890 Taichi Lite Review\nOct 21st, 2025\nAsustor Nimbustor 4 Gen2 AS5404T Review\nOct 17th, 2025\nValkyrie V360 LCD Review\nOct 15th, 2025\nSamsung Odyssey OLED G6 G60SD Review - A Matte Twist\nNov 6th, 2024\nAMD Ryzen 7 9800X3D Review - The Best Gaming Processor\nOct 16th, 2025\nDream Machines DM9 Skill Wireless Review\nAug 5th, 2025\nUpcoming Hardware Launches 2025 (Updated Aug 2025)\nOct 21st, 2025\nCrucial Pro OC DDR5-6400 32 GB CL32 Review\nTPU on YouTube\nControversial News Posts\nMicrosoft Blocks Online Account Bypass on Windows 11 (133)\nWindows 11 25H2 October Update Bug Renders Recovery Environment Unusable (124)\nMicrosoft Breaks Localhost with Windows 11 October Update, Users Forced to Revert (105)\nMicrosoft Releases Windows 11 25H2... With Zero New Features? (101)\nEnd of an Era: Windows 10 Officially Reaches End of Life (96)\nAMD Gains CPU Share as Intel Hits Record Low on Steam September Hardware Survey (94)\nOpenAI will Buy AMD GPUs, AMD Offers $30+ Billion in Stock to Sweeten the Deal (74)\nMarch-April Release of NVIDIA GeForce RTX 50-series SUPER Lineup, Possible CES Reveal (73)\nSunday, October 19th 2025\nNVIDIA and TSMC Celebrate First NVIDIA Blackwell Wafer Produced in the US\nPRESS RELEASE by GFreeman Sunday, 03:02 Discuss (18 Comments)\nAI has ignited a new industrial revolution. NVIDIA and TSMC are working together to build the infrastructure that powers the world's AI factories, right here in America. NVIDIA founder and CEO Jensen Huang today visited TSMC's semiconductor manufacturing facility in Phoenix to celebrate the first NVIDIA Blackwell wafer produced on U.S. soil, representing that Blackwell has reached volume production. Onstage at the celebration, Huang joined Y.L. Wang, vice president of operations at TSMC, to sign the Blackwell wafer, commemorating a milestone that showcases how the engines of the world's AI infrastructure are now being constructed"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Trump tamps down China threats amid regional bank jitters",
+      "description": "Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html",
+      "publishedAt": "2025-10-17T18:20:20Z",
+      "source": "Yahoo Entertainment",
+      "content": "US stocks rose on Friday as President Trump eased worries of further trade escalation with China, while regional bank stocks began to recover from significant losses amid investor jitters over bad lo… [+11560 chars]",
+      "full_content": "Stock market today: Dow, S&P 500, Nasdaq notch weekly wins after volatile week as Trump signals China talks back on track\nNo compatible source was found for this media.\nError Code: 400-4\nSession Id: ac7a8paw (Pls: 6cd60fc8-3568-4fe9-8532-7dffed5f7942)\nAmalya Dubrovsky and Karen Friar\nUpdated Sat, October 18, 2025 at 6:36 AM GMT+9 1 min read\nIn this article:\n^DJI\n^IXIC\nNQ=F\n^GSPC\nYM=F\n\nUS stocks rose on Friday as President Trump eased worries of further trade escalation with China, while regional bank stocks began to recover from significant losses amid investor jitters over bad loans and US credit quality.\n\nThe Dow Jones Industrial Average (^DJI) gained more than 0.5%, while the S&P 500 (^GSPC) rose around 0.5%. The tech-heavy Nasdaq Composite (^IXIC) also gained about 0.5%.\n\nAll three major averages closed out the week with gains.\n\nDJI - Delayed Quote\n•\nUSD\nDow Jones Industrial Average (^DJI)\nFollow\nView Quote Details\n46,924.74\n+218.16\n(+0.47%)\nAt close: 4:56:15 PM EDT\n^DJI\n^IXIC\n^GSPC\n\nTrump on Friday said talks with China were going well and his meeting with Chinese leader XI Jinping would go forward. The remarks followed earlier comments in which he said the 100% tariffs he has threatened to add to existing duties on Chinese goods from Nov. 1 would not be a \"sustainable\" level for each side's economy.\n\nMeanwhile, US regional bank stocks turned positive after a slew of upbeat earnings updates on Friday from those lenders, including Truist Financial Corp., (TFC), Huntington Bancshares (HBAN), and Fifth Third Bancorp (FITB).\n\nWall Street jitters had grown Thursday after two US regional lenders disclosed problems with loans, allegedly linked to fraud. Those troubles deepened concerns sparked by JPMorgan (JPM) CEO Jamie Dimon's \"cockroach\" warning, seen as further signs of cracks in the creditworthiness of US borrowers.\n\nStocks' back-and-forth Friday capped a turbulent week for markets, plagued by the rising US-China trade tensions as well as the prospect of a prolonged US federal shutdown.\n\nThe shutdown is dragging on, now tied for the third longest in history, with some lawmakers now worried the stoppage could extend into November and even past Thanksgiving. Federal workers' paychecks remain suspended as Trump threatens to block back pay and the courts consider his effort to fire thousands.\n\nLIVE COVERAGE IS OVER 22 updates\nSat, October 18, 2025 at 5:02 AM GMT+9\nInes Ferré\nStocks notch weekly wins as Trump downplays China tariff threats, regional bank fears ease\n\nStocks closed out the week with wins on Friday amid easing concerns over China-US trade and the stability of regional banks.\n\nThe Dow Jones Industrial Average (^DJI) rose 0.5%, while the S&P 500 (^GSPC) also gained 0.5%. The tech-heavy Nasdaq Composite (^IXIC) jumped 0.5% for all three major averages to close out a volatile week with a five-day gain.\n\nMeanwhile, gold futures (GC=F) eased 1.5% on Friday but still notched their biggest weekly gain since 2020\n\nNasdaq GIDS - Delayed Quote\n•"
+    },
+    {
+      "title": "TSMC moves up 2nm production plans in Arizona — CEO also hints at further site expansion beyond $165 billion commitment",
+      "description": "TSMC is ramping up its construction to unlock N2 production in Arizona, while also mentioning that it's purchasing another plot of land to expand the fab.",
+      "url": "https://www.tomshardware.com/tech-industry/tsmc-moves-up-2nm-production-plans-in-arizona-ceo-also-hints-at-further-site-expansion-beyond-usd165-billion-commitment",
+      "publishedAt": "2025-10-17T12:01:27Z",
+      "source": "Tom's Hardware UK",
+      "content": "Taiwan Semiconductor Manufacturing Co. (TSMC) CEO C.C. Wei has said that it’s moving up its 2nm production plans in Arizona due to continued strong AI demand from its American customers. He also ment… [+2473 chars]",
+      "full_content": "TSMC is ramping up its construction to unlock N2 production in Arizona, while also mentioning that it's purchasing another plot of land to expand the fab."
+    },
+    {
+      "title": "TSMC hurrying to bring advanced chip tech to Arizona fab",
+      "description": "CEO C.C. Wei cites strong demand for AI products. Intel may also be a factor\nTSMC is accelerating the rollout of advanced process nodes at its Arizona fabs to meet growing demand for American-made AI products.…",
+      "url": "https://www.theregister.com/2025/10/16/tsmc_us_roadmap/",
+      "publishedAt": "2025-10-16T23:25:05Z",
+      "source": "Theregister.com",
+      "content": "TSMC is accelerating the rollout of advanced process nodes at its Arizona fabs to meet growing demand for American-made AI products.\r\nThe Taiwanese foundry giant currently produces chips based on its… [+2419 chars]",
+      "full_content": "SYSTEMS\nTSMC hurrying to bring advanced chip tech to Arizona fab\n3 \nCEO C.C. Wei cites strong demand for AI products. Intel may also be a factor\nTobias Mann\nThu 16 Oct 2025 // 23:25 UTC\n\nTSMC is accelerating the rollout of advanced process nodes at its Arizona fabs to meet growing demand for American-made AI products.\n\nThe Taiwanese foundry giant currently produces chips based on its older N4 (4-nanometer) process technology at its Fab 21 site in Arizona, which began volume production earlier this year, making chips for Apple and Nvidia.\n\nTSMC's next fab, the second of six planned for its Arizona manufacturing campus, will bring its N3 node to the US in 2028. Across the Pacific, TSMC is preparing to ramp production of its N2 node, but it wasn't expected to find its way into the foundry operator's US fabs until the end of the decade.\n\nNow, its plans have apparently changed. During TSMC's Q3 earnings call this week, CEO C.C. Wei revealed the company would accelerate this timeline.\n\n\"We are preparing to upgrade our technologies faster ... to more advanced process technologies in Arizona, given the strong AI-related demand from our customers,\" he said.\n\nWhether that means TSMC's second fab will skip N3 and jump straight to N2 or its yet unreleased A16 process, the exec didn't say. El Reg reached out to TSMC for clarification and we'll let you know if we hear anything back.\n\nSince first announcing its US fab expansion in 2020, TSMC has reserved its most sophisticated process technology for its Taiwanese plants. However, since announcing a $100 billion expansion of its fab footprint in an appearance alongside US President Trump early this year, the company has seen a wave of interest from American chipmakers eager to build their parts domestically.\n\nApple, Nvidia, and AMD are all producing or plan to produce parts at TSMC's first Arizona chip plant. This surge in demand has no doubt been influenced by the persistent threat of tariffs on foreign-made electronics and semiconductors.\n\nDutch government puts Nexperia on a short leash over chip security fears\nInside the belly of the beast: A technical walk through Intel's 18A production facility at Fab52\nPanther Lake sets stage for Intel's 2 nm comeback, but many details still TBD\nTrump's tariff‑shaped stick can't beat reality on US chip fabbing\n\nAnother possible factor is the imminent availability of Intel's 2-nanometer class 18A process technology, which will power the x86 giant's Panther Lake and Clearwater Forest Xeons. The success of these products could herald a shift in demand toward the rival foundry.\n\nIntel's Foundry division has been searching for a hero customer for some time, initially targeting 18A as its breakout moment. The company has since refocused on its upcoming 14A node as its first mainstream foundry offering. \n\nWhile unproven, 18A features several elements not yet available on TSMC nodes, including the use of backside power delivery, which promises to boost transistor densities by a si"
+    },
+    {
+      "title": "$1,000 In Nvidia Stock 5 Years Ago Is Now $12,000 — NVDA Still A Buy",
+      "description": "A $1,000 investment in Nvidia stock five years ago is now worth more than $12,000. Here’s how the chipmaker built its AI dominance and why it still has room to grow.",
+      "url": "https://www.forbes.com/sites/investor-hub/article/1000-in-nvidia-nvda-stock-5-years-ago-is-now-12000-still-buy/",
+      "publishedAt": "2025-10-16T21:45:44Z",
+      "source": "Forbes",
+      "content": "Nvidia CEO Jensen Huang has touted the transformational potential of artificial intelligence long before it went mainstream.\r\nAFP via Getty Images\r\nA $1,000 investment in Nvidia (NVDA) five years ago… [+17641 chars]",
+      "full_content": "EDITORS' PICK\nMONEY\n$1,000 In Nvidia Stock 5 Years Ago Is Now $12,000 — NVDA Still A Buy\n\nBySasirekha Subramanian,\n\nContributor.\n\n Equity Research Expert\nfor Investor Hub\nFollow Author\nOct 16, 2025, 05:45pm EDT\nShare\nSave\nComment\n0\nSummary\n\nNvidia's financial performance has been extraordinary, making it the most valuable U.S. company at a $4.4 trillion market cap.\nIts market dominance stems can be attributed to the company's leadership, it's high-powered chips and a comprehensive, full-stack AI infrastructure strategy.\nDespite its stock run-up, valuation metrics indicate Nvidia may still be undervalued given its strong growth potential.\n\nShow More\nTABLE OF CONTENTS\nNvidia Vs. SPY: Which Delivered Better Returns Over The Last 5 Years\nNvidia’s Key Growth Catalysts And Stock Performance In The Past 5 Years\nWhat Nvidia Has That Competitors Can Only Dream Of\nWhat Does The Future Of Nvidia Look Like?\nNvidia Valuation: Record High Prices Still Suggest Upside Potential\nIs Nvidia Stock Still A Buy After Its Spectacular 5-Year Rally?\nFrequently Asked Questions (FAQs)\nNvidia CEO Jensen Huang has touted the transformational potential of artificial intelligence long before it went mainstream.\nAFP VIA GETTY IMAGES\n\nA $1,000 investment in Nvidia (NVDA) five years ago would be worth more than $12,000 today. The chipmaker’s stock has enjoyed a remarkable run, fueled by surging demand for its high-powered GPUs amid the AI boom.\n\nThis wasn’t a hype-driven rally. The stock never got ahead of its fundamentals; if anything, investors were late to recognize what Nvidia had been quietly building for years. When AI’s moment arrived, Nvidia was ready to embrace it.\n\nNvidia Vs. SPY: Which Delivered Better Returns Over The Last 5 Years\n\nOver the last five years, Nvidia executed two stock splits:\n\nPROMOTED\nA 4-for-1 split on July 20, 2021\nA 10-for-1 split on June 10, 2024\n\nOn Oct. 14, 2020, Nvidia closed at $14.05 on a split-adjusted basis. That means a $1,000 investment would have bought 71 shares.\n\nAs of Oct. 14, 2025, Nvidia closed at $180.03 per share, making those 71 shares worth $12,782.13—a more than 12x return, and that’s excluding any dividends received along the way.\n\nFor comparison, a $1,000 investment in the SPY ETF, which tracks the S&P 500 index, would have grown to $1,986.69 in the same period.\n\nThe takeaway? Whether you held or missed out, Nvidia’s return has been extraordinary.\n\nMORE FOR YOU\n\nWhat drove this exponential return?\n\nNvidia’s Key Growth Catalysts And Stock Performance In The Past 5 Years\n\nNvidia’s strategic pivot — repurposing its powerful graphics chips for AI workloads — proved transformational as AI became a dominant investment theme after OpenAI released ChatGPT in late 2022. Though AI had been evolving for decades, ChatGPT made it tangible, accessible and personal for the mainstream.. Nvidia positioned itself at the center of the AI narrative, capturing demand from cloud providers, data centers and enterprises racing to build next-generatio"
+    },
+    {
+      "title": "Should You Buy the Post-Earnings Dip in Taiwan Semi Stock?",
+      "description": "Taiwan Semiconductor reported strong earnings for its fiscal third quarter on Thursday. Jim Cramer recommends buying TSM stock after the earnings release.",
+      "url": "https://www.barchart.com/story/news/35507820/should-you-buy-the-post-earnings-dip-in-taiwan-semi-stock",
+      "publishedAt": "2025-10-16T20:45:05Z",
+      "source": "Barchart.com",
+      "content": "Taiwan Semiconductor Manufacturing (TSM) stock is in focus today after the semiconductor firm reported yet another record-breaking quarter on continued robust demand for artificial intelligence (AI) … [+1715 chars]",
+      "full_content": "403 ERROR\nThe request could not be satisfied.\nRequest blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n\nGenerated by cloudfront (CloudFront)\nRequest ID: _Hs_6UOhg7HuU4am4YChX0NHpekmDx3si9PrP61PCs_YQ8WvN1rljQ==\n"
+    }
+  ]
+}

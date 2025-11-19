@@ -1,0 +1,237 @@
+{
+  "timestamp": "2025-10-22T17:41:28.450004",
+  "user_query": "엔비디아 주가 예측",
+  "keywords_used": [
+    "NVIDIA Blackwell sales 2025",
+    "NVDA AI chip roadmap",
+    "NVIDIA China export restrictions",
+    "NVDA US government chip policy",
+    "NVIDIA 2025 revenue guidance",
+    "NVDA gross margin trend",
+    "NVIDIA cloud datacenter deals",
+    "NVDA enterprise AI partnership",
+    "NVIDIA TSMC production capacity",
+    "NVDA global supply chain resilience"
+  ],
+  "total_articles": 20,
+  "news_packs": [
+    {
+      "pack_id": "pack_001",
+      "event_type": "policy",
+      "summary": "Nvidia CEO Jensen Huang stated that the company's market share in China's AI GPU market plummeted from 95% to zero due to U.S. export controls. These restrictions have significantly impacted Nvidia's access to the Chinese market, which previously accounted for a substantial portion (20-25%) of their data center revenue. Micron is also reportedly preparing to exit China's data center memory market following restrictions imposed by Beijing. China's expansion of rare-earth export controls also has far-reaching implications for the semiconductor industry.",
+      "relevance_score": 0.9,
+      "article_indices": [
+        0,
+        2,
+        3,
+        8,
+        14,
+        17
+      ]
+    },
+    {
+      "pack_id": "pack_002",
+      "event_type": "earnings",
+      "summary": "TSMC's revenue forecast is raised due to a bullish outlook on the AI megatrend. The company has seen record net profits as a result of increased AI investment. This indicates a strong demand for AI-related technologies and infrastructure.",
+      "relevance_score": 0.6,
+      "article_indices": [
+        12,
+        13
+      ]
+    },
+    {
+      "pack_id": "pack_003",
+      "event_type": "general",
+      "summary": "An investment of $1,000 in Nvidia stock 5 years ago is now worth over $12,000, demonstrating the company's growth and dominance in the AI sector. HSBC upgraded NVIDIA to a 'Buy' rating, highlighting significant potential upside in the AI GPU market. HSBC also projects NVIDIA’s AI GPU market will keep expanding beyond hyperscalers.",
+      "relevance_score": 1.0,
+      "article_indices": [
+        1,
+        6,
+        18
+      ]
+    },
+    {
+      "pack_id": "pack_004",
+      "event_type": "general",
+      "summary": "The stock market is showing positive signals from earnings reports, suggesting the AI trade is still booming. Strong AI spending is boosting market confidence. US stock futures are climbing, with tech and AI chip stocks leading gains after upbeat reports from major companies.",
+      "relevance_score": 0.7,
+      "article_indices": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "pack_id": "pack_005",
+      "event_type": "general",
+      "summary": "NVIDIA and AMD are at the forefront of the artificial intelligence (AI) hardware revolution, making them key players in the tech industry. Investors are evaluating which stock has better investment potential. The expansion of AI infrastructure is being fueled by billions of dollars in investment from companies like OpenAI and Meta, demonstrating the huge demands in AI.",
+      "relevance_score": 0.8,
+      "article_indices": [
+        15,
+        16
+      ]
+    },
+    {
+      "pack_id": "pack_006",
+      "event_type": "general",
+      "summary": "GARP (Growth at a Reasonable Price) is an investment strategy to earn quick investment profits. This approach helps identify stocks with good potential for both growth and value. The strategy might be a good approach in the AI sector.",
+      "relevance_score": 0.3,
+      "article_indices": [
+        4
+      ]
+    },
+    {
+      "pack_id": "pack_007",
+      "event_type": "general",
+      "summary": "Cisco's stock is trading near its 52-week high, raising the question of whether it's still a good buy. While the provided text does not explicitly link Cisco's performance to NVIDIA, broader market trends such as AI spending and overall tech sector performance can indirectly influence companies like Cisco.",
+      "relevance_score": 0.1,
+      "article_indices": [
+        7
+      ]
+    },
+    {
+      "pack_id": "pack_008",
+      "event_type": "general",
+      "summary": "Forbes is reporting about profiting from AI without the Tech Bubble Risk with Black Stone Minerals. The provided text is an error message, meaning that the article is not directly about NVIDIA.",
+      "relevance_score": 0.0,
+      "article_indices": [
+        5
+      ]
+    },
+    {
+      "pack_id": "pack_009",
+      "event_type": "general",
+      "summary": "S&P Futures are climbing due to optimism around potential Federal Reserve rate cuts and upcoming earnings reports from major banks. Although not directly related to NVIDIA, these broader market trends in finance can influence investor sentiment towards technology stocks and AI investments.",
+      "relevance_score": 0.1,
+      "article_indices": [
+        19
+      ]
+    }
+  ],
+  "prediction": {
+    "direction": "Hold",
+    "confidence": 38,
+    "timeframe": 7,
+    "positive_factors": [
+      "[earnings] TSMC's revenue forecast is raised due to a bullish outlook on the AI megatrend."
+    ],
+    "negative_factors": [
+      "[policy] Nvidia CEO Jensen Huang stated that the company's market share in China's AI GPU market plummeted from 95% to zero due to U.S. export controls."
+    ],
+    "summary": "- POLICY: Nvidia CEO Jensen Huang stated that the company's market share in China's AI GPU market plummeted fr...\n- EARNINGS: TSMC's revenue forecast is raised due to a bullish outlook on the AI megatrend. The company has seen...\n- GENERAL: An investment of $1,000 in Nvidia stock 5 years ago is now worth over $12,000, demonstrating the com...",
+    "is_valid": false,
+    "reason_if_invalid": "신뢰도 38%로 임계치 60% 미달"
+  },
+  "analysis_details": {
+    "overall_sentiment": 1.5,
+    "event_scores": {
+      "earnings": 0.6,
+      "policy": -0.9,
+      "product": 0.0,
+      "supply": 0.0,
+      "partnership": 0.0
+    },
+    "validation_notes": [
+      "출처 신뢰도: 50%",
+      "일관성 점수: 45%",
+      "최신성: 0%"
+    ],
+    "contra_arguments": [
+      "1. **감성 점수 편향**: 긍정적인 뉴스 기사(\"TSMC 수익 예측 상향\", \"HSBC 매수 등급 상향\", \"5년 전 투자 수익률\")가 많아 감성 점수가 긍정적으로 치우쳐져 있지만, NVIDIA의 중국 시장 점유율 급락이라는 중요한 부정적 요인을 충분히 반영하지 못함. 단순히 감성 점수만으로는 위험 회피적인 투자자에게 Hold 의견을 제시하기 어려움.",
+      "2. **TSMC 의존성**: TSMC의 수익 증가는 AI 수요 증가에 따른 것이지만, NVIDIA가 TSMC에 크게 의존하고 있다는 점을 간과. TSMC 생산 차질, 경쟁사와의 TSMC 생산 경쟁 심화 등의 위험은 NVIDIA의 공급망 안정성을 위협할 수 있음.",
+      "3. **미국 수출 규제 리스크**: 중국 시장 점유율 제로화는 일시적인 현상이 아니라 미국 수출 규제라는 구조적인 문제에서 비롯됨. 향후 규제 강화 또는 새로운 규제 도입 가능성은 NVIDIA의 성장 잠재력을 제약하는 장기적인 리스크로 작용할 수 있음."
+    ]
+  },
+  "raw_articles": [
+    {
+      "title": "Nvidia CEO Says Company Went from 95% to 0 Market Share in China",
+      "description": "Nvidia CEO Jensen Huang says his company has lost all access to China's market after U.S. export restrictions eliminated what was once a 95% share. Speaking in an interview with Citadel Securities, Huang questioned the wisdom of policies that cost America one…",
+      "url": "https://tech.slashdot.org/story/25/10/20/1934203/nvidia-ceo-says-company-went-from-95-to-0-market-share-in-china",
+      "publishedAt": "2025-10-20T20:05:00Z",
+      "source": "Slashdot.org",
+      "content": "The US: \"You arent buying enough from us! You need to buy more from us!\"\r\nAlso the US: \"You cant buy basically anything that you actually need, we forbid it - buy more cheap bulk goods that you can g… [+76 chars]",
+      "full_content": " \nNvidia CEO Says Company Went from 95% to 0 Market Share in China (fortune.com)\n93\nPosted by msmash on Monday October 20, 2025 @04:05PM from the tough-luck dept.\nNvidia CEO Jensen Huang says his company has lost all access to China's market after U.S. export restrictions eliminated what was once a 95% share. Speaking in an interview with Citadel Securities, Huang questioned the wisdom of policies that cost America one of the world's largest markets.\n\nThe Biden Administration imposed rules in 2022 to restrict exports of Nvidia's most advanced AI chips to China. The Trump Administration blocked additional chip sales in April and later granted export licenses for certain Nvidia and AMD chips in exchange for 15% of revenues. Chinese regulators responded by telling domestic tech companies to avoid Nvidia chips designed to meet U.S. export requirements. Beijing also placed strict limits on exports of rare earths. Huang noted that about half the world's AI researchers are in China and called it a mistake not to have them build AI on American technology.\n\n←\nRelated Links\n→\nGoogle To Let 'Superfans' Test In-Development Pixel Phones\nNvidia and AMD To Pay 15% of China Chip Sale Revenues To US Government\nChina Tells Its Tech Companies To Stop Buying All of Nvidia's AI Chips\nLouvre Museum Security 'Outdated and Inadequate' at Time of Heist"
+    },
+    {
+      "title": "HSBC: NVIDIA’s (NVDA) AI GPU Market to Keep Expanding Beyond Hyperscalers",
+      "description": "NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Analysts Are Watching Closely. On October 15, HSBC analyst Frank Lee upgraded the stock to Buy from ...",
+      "url": "https://finance.yahoo.com/news/hsbc-nvidia-nvda-ai-gpu-223106827.html",
+      "publishedAt": "2025-10-18T22:31:06Z",
+      "source": "Yahoo Entertainment",
+      "content": "NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Analysts Are Watching Closely. On October 15, HSBC analyst Frank Lee upgraded the stock to Buy from Hold and raised his target price to $320 p… [+1905 chars]",
+      "full_content": "HSBC: NVIDIA’s (NVDA) AI GPU Market to Keep Expanding Beyond Hyperscalers\nNo compatible source was found for this media.\nError Code: 400-4\nSession Id: gfqcp14c (Pls: 1366e6b7-a08b-4655-8cac-869f33866d30)\nGhazal Ahmed\nSun, October 19, 2025 at 7:31 AM GMT+9 2 min read\nIn this article:\nNVDA\nOPAI.PVT\n\nNVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Analysts Are Watching Closely. On October 15, HSBC analyst Frank Lee upgraded the stock to Buy from Hold and raised his target price to $320 per share from $200.\n\nThe firm believes that the AI GPU total addressable market will keep expanding beyond hyperscalers, driving continuous earnings growth.\n\nLee cited a potential increase in the total addressable market for GPUs for the fiscal year 2027, following Nvidia’s deals with OpenAI and Stargate. The analyst revised his data center estimates to $351 billion, which is 36% higher than consensus estimates. Lee believes that a recovery in China could also provide a tailwind.\n\n“We also see potential easing of China GPU uncertainties following the potential US-China trade deal that could enable NVIDIA to see a demand recovery in the Chinese market,” the analyst wrote. “With c78% upside, we upgrade our rating to Buy as we expect AI GPU TAM to keep increasing beyond hyperscalers, leading to continuous earnings growth.”\n\nAnalysts at the firm raised Nvidia’s fiscal 2027 estimate for Chip on Wafer on Substrate, or CoWoS, allocation to 700K (from 480K). This marks the first significant rebound in CoWoS wafer allocation momentum since the fourth quarter of 2025.\n\nThey noted that Nvidia’s aggressive fiscal 2027 estimate for CoWoS wafer forecasts at TSM will trigger an upward revision in fiscal 2027 datacenter revenues and reinforce their view of a rapidly expanding AI GPU market.\n\nNVIDIA Corporation (NASDAQ:NVDA) specializes in AI-driven solutions, offering platforms for data centers, self-driving cars, robotics, and cloud services.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 10 AI Stocks Every Investor Should Watch and 10 AI Stocks in Focus on Wall Street\n\nDisclosure: None.\n\nTerms and Privacy Policy\nPrivacy Dashboard"
+    },
+    {
+      "title": "Jensen says Nvidia’s China AI GPU market share has plummeted from 95% to zero — the Chinese market previously amounted to 20% to 25% of the chipmaker's data center revenue",
+      "description": "Nvidia CEO Jensen Huang said last week that the company’s share of China’s advanced AI accelerator market has collapsed from roughly 95% to zero as US export controls continue to bite.",
+      "url": "https://www.tomshardware.com/tech-industry/jensen-huang-says-nvidia-china-market-share-has-fallen-to-zero",
+      "publishedAt": "2025-10-18T13:53:18Z",
+      "source": "Tom's Hardware UK",
+      "content": "Nvidia CEO Jensen Huang said last week that the company’s share of China’s advanced AI accelerator market has collapsed from roughly 95% to zero as US export controls continue to bite. The comment ca… [+2667 chars]",
+      "full_content": "Nvidia CEO Jensen Huang said last week that the company’s share of China’s advanced AI accelerator market has collapsed from roughly 95% to zero as US export controls continue to bite."
+    },
+    {
+      "title": "Micron is preparing to exit China’s data center memory market completely, report claims — Beijing banned company's chips from 'critical information infrastructure' in 2023",
+      "description": "Micron is reportedly preparing to halt sales of server memory chips to data centers in mainland China, after its business there failed to recover from a 2023 cybersecurity ban.",
+      "url": "https://www.tomshardware.com/pc-components/ram/reports-suggest-micron-is-preparing-to-exit-chinas-data-center-memory-market",
+      "publishedAt": "2025-10-17T14:59:32Z",
+      "source": "Tom's Hardware UK",
+      "content": "Micron is reportedly preparing to halt sales of server memory chips to data centers in mainland China, after its business there failed to recover from a 2023 cybersecurity ban. The move, reported by … [+2812 chars]",
+      "full_content": "PC Components  RAM\nMicron is preparing to exit China’s data center memory market completely, report claims — Beijing banned company's chips from 'critical information infrastructure' in 2023\nNews\nBy Luke James published October 17, 2025\n\nUS memory maker may curb data center shipments to mainland China amid ongoing fallout from 2023 cybersecurity ban.\n\n \n \n \n \n \n Comments (1)\n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.\n\n(Image credit: Future)\n\nMicron is reportedly preparing to halt sales of server memory chips to data centers in mainland China, after its business there failed to recover from a 2023 cybersecurity ban. The move, reported by Reuters citing unnamed internal sources, has not been confirmed by Micron, but would mark a significant retrenchment from the world’s fastest-growing data center market.\n\nAccording to the report, citing people familiar with the matter, Micron intends to cease shipments of its DRAM and other server-grade memory products to Chinese data centers, while continuing to supply the country’s automotive and smartphone sectors. The company would also continue to serve certain Chinese clients that operate data centers abroad, including Lenovo, the sources said. Micron declined to comment on the rumors but did acknowledge that the 2023 ban had impacted the division and that it “abides by applicable regulations where it does business.”\n\nIf true, the decision would highlight how little ground Micron has regained since Beijing’s 2023 ban on its products in “critical information infrastructure” — a policy the Cyberspace Administration of China justified on national security grounds. The ban effectively locked Micron out of many state-backed data center projects, forcing domestic and Korean suppliers to fill the void. At the time, the ruling was widely seen as a countermeasure against US export restrictions on advanced chips.\n\nLATEST VIDEOS FROM TOM'S HARDWARE\nYOU MAY LIKE\nYMTC and CXMT team up to accelerate Chinese domestic HBM production\nChinese memory maker reportedly preparing for $42 billion IPO\nChina mandates domestic firms source 50% of chips from Chinese producers\n\nIf the reports are true, Micron’s withdrawal from China’s data-center segment may allow Samsung and SK Hynix to further solidify their position in the Chinese server DRAM market, but recent US restrictions could make that difficult. Local players such as YMTC and CXMT have also expanded production under Beijing’s push for semiconductor self-sufficiency, though their technologies still lag in performance and yield. China’s data center investment linked to artificial intelligence surged to roughly 24.7 billion yuan ($3.4 billion) last year, according to Reuters.\n\nMainland China accounted for around 12% of Micron’s revenue last fiscal year, and most of its recent growth has come from AI infrastructure demand elsewhere. Micron has recently broken revenue records due largely in part due to a rebound in memo"
+    },
+    {
+      "title": "4 GARP Stocks That Investors Can Scoop Up for Maximum Returns",
+      "description": "Try the GARP strategy when seeking a profitable portfolio of stocks offering optimum value and growth investing. SYK, NVDA, RMD and RL hold promise.",
+      "url": "https://finance.yahoo.com/news/4-garp-stocks-investors-scoop-144900923.html",
+      "publishedAt": "2025-10-17T14:49:00Z",
+      "source": "Yahoo Entertainment",
+      "content": "Growth at a reasonable price, or GARP, is an excellent strategy to earn quick investment profits. The GARP approach helps identify stocks priced below the market or any suitable target determined by … [+8503 chars]",
+      "full_content": "4 GARP Stocks That Investors Can Scoop Up for Maximum Returns\nVasundhara Sawalka\nFri, October 17, 2025 at 11:49 PM GMT+9 7 min read\nIn this article:\nRSMDF\nSYK\nNVDA\nRMD\nRL\n\nGrowth at a reasonable price, or GARP, is an excellent strategy to earn quick investment profits. The GARP approach helps identify stocks priced below the market or any suitable target determined by a fundamental analysis.\n\nThe strategy helps investors gain exposure to stocks with impressive prospects and trading at a discount. GARP stocks have solid prospects in terms of cash flow, revenues, earnings per share (EPS) and other metrics.\n\nA portfolio based on the GARP strategy comprises stocks that offer the best value and growth investment. Stryker SYK, NVIDIA NVDA, ResMed RMD and Ralph Lauren RL are some promising GARP stocks.\n\nGARP Metrics: Mix of Growth & Value Metrics\n\nThe GARP strategy offers ideal investment options, utilizing the best value and growth investing features. Investors adopting the GARP approach prefer stocks priced below the market or any reasonable target determined by fundamental analysis. The stocks have solid prospects based on cash flow, revenues, EPS, etc.\n\nGrowth Metrics\n\nA strong earnings growth history and impressive earnings prospects are the primary concepts that GARP investors borrow from the growth investing strategy. However, instead of super-normal rates, pursuing stocks with a more stable and reasonable growth rate is a tactic of GARP investors. The GARP strategy considers growth rates between 10% and 20% ideal.\n\nAnother metric considered by growth and GARP investors is return on equity (ROE). GARP investors look for strong and higher ROE than the industry average to identify superior stocks. Moreover, stocks with a positive cash flow find precedence under the GARP plan.\n\nValue Metrics\n\nGARP investing prioritizes one of the popular value metrics, the price-to-earnings (P/E) ratio. The investing style picks stocks with higher P/E ratios than value investors, but it avoids companies with extremely high P/E ratios. The price-to-book value (P/B) ratio is also taken into consideration.\n\nUsing the GARP principle, we have run a screen to identify stocks that should offer solid returns in the near term.\n\nScreening Parameters\n\nAlong with the criteria discussed in the above section, we have considered a Zacks Rank #1 (Strong Buy) or 2 (Buy). You can see the complete list of today's Zacks #1 Rank stocks here. \n\nLast five-year EPS & projected 3-5-year EPS growth rates between 10% and 25% (Strong EPS growth history and prospects ensure improving business.)\n\nROE (in the past 12 months) greater than the industry average (Higher ROE than the industry average indicates superior stocks.)\n\nP/E and P/B ratios are less than the M-industry average (P/E and P/B ratios less than the industry indicate that the stocks are undervalued.)\n\nHere are four out of the 12 stocks that made it through the screen.  Each of the four stocks carries a Zacks Rank #2.\n\nStryker’s inter"
+    },
+    {
+      "title": "Profit From AI Without The Tech Bubble Risk With Black Stone Minerals",
+      "description": "My original investment thesis on this company remains intact and increasing AI spending makes future growth prospects even more attractive.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/10/16/profit-from-ai-without-the-tech-bubble-risk-with-black-stone-minerals/",
+      "publishedAt": "2025-10-16T21:51:04Z",
+      "source": "Forbes",
+      "content": "MALLNOW, GERMANY - MAY 24: A compressor station of the Jagal natural gas pipeline stands on May 24, 2023 near Mallnow, Germany. The Jagal is the German extension of the Yamal-Europe pipeline that tra… [+15911 chars]",
+      "full_content": "next-hop.forbes.com | Access denied (403)\nCurrent session has been terminated.\n\nFor further information, do not hesitate to contact us.\n\nRef: 112.218.161.108 2025-10-22T08:39:46.493Z"
+    },
+    {
+      "title": "$1,000 In Nvidia Stock 5 Years Ago Is Now $12,000 — NVDA Still A Buy",
+      "description": "A $1,000 investment in Nvidia stock five years ago is now worth more than $12,000. Here’s how the chipmaker built its AI dominance and why it still has room to grow.",
+      "url": "https://www.forbes.com/sites/investor-hub/article/1000-in-nvidia-nvda-stock-5-years-ago-is-now-12000-still-buy/",
+      "publishedAt": "2025-10-16T21:45:44Z",
+      "source": "Forbes",
+      "content": "Nvidia CEO Jensen Huang has touted the transformational potential of artificial intelligence long before it went mainstream.\r\nAFP via Getty Images\r\nA $1,000 investment in Nvidia (NVDA) five years ago… [+17641 chars]",
+      "full_content": "A $1,000 investment in Nvidia stock five years ago is now worth more than $12,000. Here’s how the chipmaker built its AI dominance and why it still has room to grow."
+    },
+    {
+      "title": "Cisco Trades Near 52-Week High: Is the CSCO Stock Still a Buy?",
+      "description": "CSCO's AI surge, NVIDIA partnership, and expanding security portfolio fuel optimism for sustained growth despite networking headwinds.",
+      "url": "https://finance.yahoo.com/news/cisco-trades-near-52-week-180300346.html",
+      "publishedAt": "2025-10-16T18:03:00Z",
+      "source": "Yahoo Entertainment",
+      "content": "Cisco Systems CSCO shares closed at $69.52 on Wednesday, trading very close to the 52-week high of $72.55 it hit on Aug. 11. Ciscos aggressive AI push and growing security dominance are driving prosp… [+5173 chars]",
+      "full_content": "Cisco Trades Near 52-Week High: Is the CSCO Stock Still a Buy?\nAniruddha Ganguly\nFri, October 17, 2025 at 3:03 AM GMT+9 4 min read\nIn this article:\nCSCO\nAVGO\nANET\n\nCisco Systems CSCO shares closed at $69.52 on Wednesday, trading very close to the 52-week high of $72.55 it hit on Aug. 11. Cisco’s aggressive AI push and growing security dominance are driving prospects.  \n\nAI Infrastructure orders from webscale customers hit $2 billion in fiscal 2025, double the management’s original expectation. However, slowing momentum in networking revenues and a challenging macroeconomic environment have been impacting share price movement. In fiscal 2025, networking revenues declined 3% from 2024’s reported figure.\n\nYear to date (YTD), CSCO shares have appreciated 17.4%, underperforming the Zacks Computer & Technology sector, as well as close peers Broadcom AVGO and Arista Networks ANET. While the broader sector has appreciated 23%, shares of Broadcom and Arista Networks have returned 51.5% and 29.7%, respectively, over the same time frame.\n\nCSCO Stock’s Performance\n\n \n\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\n \n\nMeanwhile, Cisco shares are trading at a premium, as suggested by the Value Score of C. In terms of the forward 12-month price/sales, CSCO is trading at a premium of 4.57X, higher than the Zacks Computer Networks industry’s 4.33X.\n\nCSCO Stock’s Valuation\n\n \n\nZacks Investment Research\n\n\nImage Source: Zacks Investment Research\n\n \n\nHowever, Cisco shares are trading at a discount compared with Arista Networks and Broadcom. In terms of the forward 12-month P/S, Arista Networks and Broadcom shares are trading at 17.87X and 19.75X, respectively.\n\nSo, does an expanding clientele and strong portfolio improve CSCO’s appeal to investors? Let’s find out.\n\nExpanding Portfolio to Boost Cisco’s Prospects\n\nCisco’s aggressive AI push and growing security dominance have been major growth drivers. Rapid acceleration in the capacity requirements of the network due to unprecedented levels of network traffic and an ever-evolving threat landscape bodes well for Cisco’s prospects. The AI opportunity further gets a boost from Cisco’s partnership with NVIDIA NVDA. \n\nCisco’s expanded partnership with NVIDIA, under which the companies plan to offer solutions that help build AI-ready data center networks, is a game-changer. Integration of Cisco Nexus switches with NVIDIA’s Spectrum-X architecture is offering low-latency, high-speed networking for AI clusters, driving enterprise AI orders. The Cisco Secure AI factory with NVIDIA provides a trusted blueprint for building secure AI-ready data centers for enterprises, sovereign cloud providers and newly emerging Neocloud providers.\n\nCisco’s security business is benefiting from strong demand for both Cisco Secure Access, Hypershield and XDR. In the fourth quarter of fiscal 2025, orders grew mid-single-digit. Splunk and Cisco synergies reported 14% year-over-year growth in new logos for Splunk.  Secure Acces"
+    },
+    {
+      "title": "China's latest round of rare-earth export controls gives the country dominion over precious resources — regulations have far-reaching implications for the semiconductor industry",
+      "description": "China has expanded its rare-earth export controls to cover not only raw materials but also to mining equipment, and foreign-made products containing Chinese-origin rare earths, effectively globalizing its licensing regime.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-latest-round-of-rare-earth-export-controls-gives-the-country-dominion-over-precious-resources-regulations-have-far-reaching-implications-for-the-semiconductor-industry",
+      "publishedAt": "2025-10-16T15:23:08Z",
+      "source": "Tom's Hardware UK",
+      "content": "Last week, a new round of the U.S.-China trade war commenced. China imposed export controls on a new set of rare earth materials and the methods of their processing, which may impact a variety of pro… [+9135 chars]",
+      "full_content": "Tech Industry  Manufacturing  Semiconductors\nChina's latest round of rare-earth export controls gives the country dominion over precious resources — regulations have far-reaching implications for the semiconductor industry\nNews\nBy Anton Shilov published October 17, 2025\n\nExport controls expand to knowledge, tools and equipment\n\n \n \n \n \n \n\nWhen you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.\n\n(Image credit: Getty Images / Cheng Xin)\n\nLast week, a new round of the U.S.-China trade war commenced. China imposed export controls on a new set of rare earth materials and the methods of their processing, which may impact a variety of products and industries. More importantly, China expanded its export control framework beyond raw materials, now reaching actual products and complex devices made outside of China. This means that a product produced anywhere in the world, but containing rare earth materials from China, may be subject to Beijing's export licensing regime if the value of rare earth materials in this product exceeds 0.1%. The U.S. was quick to retaliate with a 100% tariff on China-made products and a ban on 'critical software' for China-based entities.\n\nMaterials\n\nStarting early November, China will add five heavy rare-earth elements to its export controls list, including erbium, europium, holmium, thulium, and ytterbium, as well as their alloys, oxides, compounds, and finished materials.\n\nThe controls explicitly cover magnetic powders, luminescent phosphors, fibre-optic materials, thermal-shield coatings, hydrogen storage, and magnetic alloys. These five elements and alloys on their base are used to build devices like displays, EV drivetrains, lasers, magnetic subsystems (hard drives), optical and photonic infrastructure, satellites, and more.\n\nLATEST VIDEOS FROM TOM'S HARDWARE\nYOU MAY LIKE\nTaiwan says its chip fabs are safe from China’s rare-earth crackdown\nASML is prepared for China's rare-earth export controls\nPresident Trump warns China of massive tariff increases in wake of expanded rare earths export controls\n\n(Image credit: Getty Images / Bloomberg)\n\nThis round of China's export controls targets rare earth elements that generate, manipulate, and sense light or magnetism, which are critically important for dozens of devices and industries. By tightening export controls over these materials, China is increasing its influence over both the supply of rare earths and the foundational building blocks that the computing, defence, and telecommunication industries rely upon worldwide.\n\nWhile companies in these industries have the flexibility to switch from one supplier to another, doing so is difficult and expensive because they have downstream partners that need to validate and qualify all the components they use.\n\n(Image credit: Tom's Hardware)\n\nChina's export controls policy evolved from restricting fundamental semiconductor materials such as antimony, gallium, and germanium (Round I) to advanc"
+    },
+    {
+      "title": "Stocks Climb as Strong AI Spending Boosts Market Confidence",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.24%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.16%, and the Nasdaq 100 Index ($IUXX ) (QQQ...",
+      "url": "https://www.barchart.com/story/news/35498833/stocks-climb-as-strong-ai-spending-boosts-market-confidence",
+      "publishedAt": "2025-10-16T14:14:43Z",
+      "source": "Barchart.com",
+      "content": "The S&amp;P 500 Index ($SPX) (SPY) today is up +0.24%, the Dow Jones Industrials Index ($DOWI) (DIA) is up +0.16%, and the Nasdaq 100 Index ($IUXX) (QQQ) is up +0.50%.  December E-mini S&amp;P future… [+8075 chars]",
+      "full_content": "403 ERROR\nThe request could not be satisfied.\nRequest blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n\nGenerated by cloudfront (CloudFront)\nRequest ID: YWyZTzmLlOzDplXOEyENCl48mKlCqalVtLXJVk4GB8arRDNlP0xe3g==\n"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "timestamp": "2025-10-24T11:50:41.706457",
+  "user_query": "엔비디아 주가 예측",
+  "keywords_used": [
+    "NVIDIA Blackwell GPU sales",
+    "NVDA AI chip market share",
+    "NVIDIA China export restrictions",
+    "NVDA US semiconductor policy impact",
+    "NVIDIA quarterly earnings forecast",
+    "NVDA revenue growth outlook",
+    "NVIDIA enterprise AI partnerships",
+    "NVDA data center customer deals",
+    "NVIDIA TSMC production capacity",
+    "NVDA global supply chain disruptions"
+  ],
+  "total_articles": 20,
+  "news_packs": [
+    {
+      "pack_id": "pack_001",
+      "event_type": "product",
+      "summary": "Nvidia's Blackwell architecture is highlighted in several new product announcements. Google Cloud launched G4 VMs powered by Nvidia RTX PRO 6000 Blackwell GPUs, supporting up to eight GPUs with 768GB of GDDR7 memory. Nvidia has begun shipping the DGX Spark, a compact AI supercomputer developed in partnership with MediaTek. Nvidia’s Blackwell Wafer is potentially the first step toward onshored AI chipmaking.",
+      "relevance_score": 0.95,
+      "article_indices": [
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "pack_id": "pack_002",
+      "event_type": "policy",
+      "summary": "The U.S. is considering new tech restrictions targeting China in the NDAA, potentially limiting China's access to advanced technology. Nvidia CEO Jensen Huang stated that Nvidia's market share in China has dropped from 95% to 0 due to U.S. export restrictions. China has expanded its rare-earth export controls, impacting the semiconductor industry. These export controls have affected Nvidia's data center revenue, with the Chinese market previously accounting for 20% to 25%.",
+      "relevance_score": 0.9,
+      "article_indices": [
+        5,
+        9,
+        11,
+        19
+      ]
+    },
+    {
+      "pack_id": "pack_003",
+      "event_type": "stock_analysis",
+      "summary": "HSBC upgraded NVIDIA Corporation (NVDA) to a Buy rating, lifting the price target to $320. Analysts are updating stock forecasts for Broadcom and Intel ahead of their earnings reports. Nvidia's stock performance is analyzed, noting its historical rallies and potential triggers for future growth. GARP (Growth at a Reasonable Price) stocks, including Nvidia, are highlighted as potential investments for maximum returns.",
+      "relevance_score": 0.85,
+      "article_indices": [
+        3,
+        12,
+        6,
+        15
+      ]
+    },
+    {
+      "pack_id": "pack_004",
+      "event_type": "general",
+      "summary": "The stock market experienced volatility, with the Dow Jones Industrial Average showing gains while the Nasdaq lagged. Market movements are influenced by earnings season and U.S.-China trade relations. Some reports suggest potential China talks are back on track, impacting market sentiment. Regional bank concerns also contributed to market fluctuations.",
+      "relevance_score": 0.3,
+      "article_indices": [
+        4,
+        13,
+        14,
+        17
+      ]
+    },
+    {
+      "pack_id": "pack_005",
+      "event_type": "general",
+      "summary": "An article discusses whether Nvidia's desktop AI supercomputer shifts the long-term growth outlook. There is also an article discussing why Nvidia’s Vera Rubin may unleash another AI wave, suggesting that Nvidia didn't just catch the AI wave; it effectively became the tide. TSMC’s results add another feather in the hat of AI Bulls.",
+      "relevance_score": 0.7,
+      "article_indices": [
+        10,
+        18
+      ]
+    },
+    {
+      "pack_id": "pack_006",
+      "event_type": "general",
+      "summary": "An article points out that $1,000 invested in Nvidia stock 5 years ago is now worth $12,000, and suggests NVDA is still a buy. The article also mentions Nvidia's growth may just be getting started.",
+      "relevance_score": 0.8,
+      "article_indices": [
+        16
+      ]
+    },
+    {
+      "pack_id": "pack_007",
+      "event_type": "stock_analysis",
+      "summary": "One article questions if Nvidia stock can hit $300 in 2025. This indicates general market interest and speculation regarding Nvidia's financial performance and future stock value.",
+      "relevance_score": 0.6,
+      "article_indices": [
+        1
+      ]
+    }
+  ],
+  "prediction": {
+    "direction": "Up",
+    "confidence": 45,
+    "timeframe": 7,
+    "positive_factors": [
+      "[product] Nvidia's Blackwell architecture is highlighted in several new product announcements."
+    ],
+    "negative_factors": [
+      "[policy] Nvidia CEO Jensen Huang stated that Nvidia's market share in China has dropped from 95% to 0 due to U.S. export restrictions."
+    ],
+    "summary": "- PRODUCT: Nvidia's Blackwell architecture is highlighted in several new product announcements. Google Cloud la...\n- POLICY: The U.S. is considering new tech restrictions targeting China in the NDAA, potentially limiting Chin...\n- STOCK_ANALYSIS: HSBC upgraded NVIDIA Corporation (NVDA) to a Buy rating, lifting the price target to $320. Analysts ...",
+    "is_valid": false,
+    "reason_if_invalid": "신뢰도 45%로 임계치 60% 미달"
+  },
+  "analysis_details": {
+    "overall_sentiment": 1.5,
+    "event_scores": {
+      "earnings": 0.7,
+      "policy": -0.8,
+      "product": 1.2,
+      "supply": 0.0,
+      "partnership": 0.5
+    },
+    "validation_notes": [
+      "출처 신뢰도: 50%",
+      "일관성 점수: 68%",
+      "최신성: 0%"
+    ],
+    "contra_arguments": [
+      "1.  **중국 시장 리스크 과소평가**: 미국 기술 제재 강화 시 중국 시장 점유율 감소 가능성, 이는 Nvidia 실적에 부정적 영향. 황 CEO 발언은 상황을 낙관적으로 포장했을 수 있음.",
+      "2.  **경쟁 심화**: Broadcom, Intel 등 경쟁사의 실적 발표 및 주가 전망 변동은 Nvidia의 시장 지위를 위협할 수 있으며, Blackwell 아키텍처의 성공을 단정하기 어려움.",
+      "3.  **과도한 낙관론**: HSBC의 투자의견 상향 및 목표 주가 상승은 현재의 시장 분위기를 반영한 것일 뿐, 단기적인 주가 변동에 영향을 줄 수 있지만 장기적인 성장 가능성을 보장하지 않음."
+    ]
+  },
+  "raw_articles": [
+    {
+      "title": "Nvidia’s Blackwell Wafer: The First Step Toward Onshored AI Chipmaking",
+      "description": "Nvidia’s first US-made Blackwell wafer represents a milestone in America’s bid for semiconductor independence. While true chip self-sufficiency remains years away, this achievement marks a significant leap in the nation’s reindustrialization push – and positi…",
+      "url": "https://techreport.com/news/hardware/nvidia-us-made-blackwell-wafer-ai-milestone/",
+      "publishedAt": "2025-10-22T14:42:33Z",
+      "source": "Techreport.com",
+      "content": "Key Takeaways\r\n<ul><li>Nvidia and TSMC have produced the first Blackwell wafer entirely on US soil, marking a major step toward domestic AI chip manufacturing.</li><li>The wafer’s production at TSMC … [+6152 chars]",
+      "full_content": "Home\nNvidia’s Blackwell Wafer: The First Step Toward Onshored AI Chipmaking\nBusiness Hardware News\nNvidia’s Blackwell Wafer: The First Step Toward Onshored AI Chipmaking\n5 min read\nPublished: October 22, 2025\nUpdated:\nOctober 23, 2025\n\nWritten by Monica J. White\n\nTech Journalist\n\n Fact Checked by William Baxter\n\nTech Editor\n\nWhy Trust Tech Report\n\nKey Takeaways\n\nNvidia and TSMC have produced the first Blackwell wafer entirely on US soil, marking a major step toward domestic AI chip manufacturing.\nThe wafer’s production at TSMC Arizona signals progress toward reindustrialization, but full US-made Blackwell GPUs are still 1–2 years away.\nThe initiative aligns with the US CHIPS Act and reshoring efforts, aimed at securing AI hardware supply chains and reducing reliance on Asia.\nMeanwhile, Europe and the UK remain focused on research and IP through companies like ASML, NXP, and ARM, but lack comparable fabrication capacity.\n\nNvidia and TSMC have unveiled the first Blackwell wafer manufactured entirely on U.S. soil — a landmark moment for American semiconductor production.\n\nProduced at TSMC’s cutting-edge Arizona facility, the wafer marks one of the earliest concrete steps toward reshoring advanced AI chipmaking back to the United States.\n\nDuring its unveiling, Nvidia CEO Jensen Huang called the wafer a “historic moment” for the industry. He described it as “The vision of President Trump of reindustrialization — to bring back manufacturing to America.”\n\nThe Blackwell wafer’s debut is a strong signal that U.S. facilities are gearing up for large-scale production. Still, the journey from wafer to a fully functional GPU is long — months of intricate layering, patterning, and rigorous testing lie ahead.\n\nNvidia and TSMC’s breakthrough highlights the bigger question: how close is America to real chip independence — and what milestones must come next?\n\nFrom Wafer to Chip: How Far Away Are US-Made Blackwell GPUs?\n\nThe Arizona wafer unveiling marks only the first step in Nvidia’s U.S. chipmaking push.\n\nAt its core, a wafer is just the starting point — a thin slice of silicon that must pass through dozens of painstaking processes before it becomes a working GPU. Layering, patterning, etching, doping, and rigorous testing transform raw silicon into billions of transistors that power advanced AI chips.\n\nAt TSMC’s Arizona facility, engineers will use advanced process nodes to produce 2- to 4-nanometer wafers, as well as the upcoming A16 chips. \n\nHowever, following this stage of production, much of the final packaging and assembly – the stage where chips are cut, stacked, and connected – is still expected to take place in Asia, at facilities in Taiwan or Japan.\n\nIndustry analysts suggest that Blackwell GPUs, which are entirely made in the US, are likely at least one or two years away from large-scale deployment. Given TSMC’s $100B investment in US chip facilities in March and Nvidia’s clear intent to shift its AI server supply chain to the US, stakeholders are lik"
+    },
+    {
+      "title": "Can Nvidia Stock Hit $300 in 2025?",
+      "description": "Will Nvidia’s unstoppable AI momentum drive the stock past $300 by the end of 2025?",
+      "url": "https://www.barchart.com/story/news/35608693/can-nvidia-stock-hit-300-in-2025",
+      "publishedAt": "2025-10-22T13:00:02Z",
+      "source": "Barchart.com",
+      "content": "When it comes to artificial intelligence (AI), one name that towers above the rest is Nvidia (NVDA). The chipmaking powerhouse has become the heartbeat of the AI revolution, fueling everything from m… [+6974 chars]",
+      "full_content": "403 ERROR\nThe request could not be satisfied.\nRequest blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.\n\nGenerated by cloudfront (CloudFront)\nRequest ID: OWsDMVzOHCRPqjNElFW7r_-P6o-1OW7KQMcGHWWErKiXh-AuvyukXQ==\n"
+    },
+    {
+      "title": "Top analyst updates Intel stock forecast, before earnings",
+      "description": "Intel's Q3 earnings report is set to be released on October 23. The earnings report will have a significant impact on the stock, as it will reveal the extent...",
+      "url": "https://www.thestreet.com/technology/top-analyst-updates-intel-stock-forecast-before-earnings",
+      "publishedAt": "2025-10-22T02:33:00Z",
+      "source": "TheStreet",
+      "content": "Intel's Q3 earnings report is set to be released on October 23. The earnings report will have a significant impact on the stock, as it will reveal the extent to which the company has managed to stabi… [+4204 chars]",
+      "full_content": "Intel's Q3 earnings report is set to be released on October 23. The earnings report will have a significant impact on the stock, as it will reveal the extent..."
+    },
+    {
+      "title": "Analysts update Broadcom stock forecast",
+      "description": "Over the past six months, Broadcom's stock has gained 104%. A significant boost to the stock was the Q3 earnings reveal that Broadcom secured $10 billion in ...",
+      "url": "https://www.thestreet.com/technology/analysts-update-broadcom-stock-forecast",
+      "publishedAt": "2025-10-21T20:33:00Z",
+      "source": "TheStreet",
+      "content": "Over the past six months, Broadcom's stock has gained 104%. A significant boost to the stock was the Q3 earnings reveal that Broadcom secured $10 billion in orders of AI racks, based on the company's… [+4875 chars]",
+      "full_content": "Over the past six months, Broadcom's stock has gained 104%. A significant boost to the stock was the Q3 earnings reveal that Broadcom secured $10 billion in ..."
+    },
+    {
+      "title": "Stock market today: Dow rises, but Nasdaq lags as investors assess flood of earnings",
+      "description": "The Dow touched an intraday record high while the Nasdaq slipped as investors focused on a wave of quarterly earnings while remaining vigilant about US-China...",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-rises-but-nasdaq-lags-as-investors-assess-flood-of-earnings-133157509.html",
+      "publishedAt": "2025-10-21T13:31:57Z",
+      "source": "Yahoo Entertainment",
+      "content": "The Dow rose to a record intraday high on Tuesday as Wall Street welcomed the latest wave of quarterly results from the likes of General Motors (GM) and Coca-Cola (KO).\r\nGains for the Dow Jones Indus… [+11903 chars]",
+      "full_content": "Stock market today: Dow jumps 200 points to record high as Wall Street cheers start of earnings season\nNo compatible source was found for this media.\nError Code: 400-4\nSession Id: zkz5kuj5 (Pls: 952a38fd-418f-48f2-8ca1-90df64e15989)\nRian Howlett, Karen Friar and Ines Ferré\nUpdated Wed, October 22, 2025 at 7:33 AM GMT+9 2 min read\nIn this article:\n^GSPC\nGM\nKO\n^DJI\n^SPX\n\nThe Dow closed at a fresh record on Tuesday as Wall Street welcomed the latest wave of quarterly results from the likes of General Motors (GM) and Coca-Cola (KO).\n\nGains for the Dow Jones Industrial Average (^DJI) lifted the blue-chip benchmark 0.5%. Meanwhile, the S&P 500 (^GSPC) closed the session little changed, and the Nasdaq Composite (^IXIC) slipped roughly 0.1%.\n\nDJI - Delayed Quote\n•\nUSD\nDow Jones Industrial Average (^DJI)\nFollow\nView Quote Details\n46,734.61\n+144.20\n(+0.31%)\nAt close: 4:51:18 PM EDT\n^DJI\n^IXIC\n^GSPC\n\nInvestors are focused on the flood of major earnings reports due this week, headlined on Tuesday by streaming giant Netflix (NFLX) and GM. The Big Three automaker's stock surged after GM raised its full-year profit outlook. Meanwhile, shares in Dow components Coca-Cola (KO) and 3M (MMM) popped after upbeat earnings reports.\n\nLater, investors will watch Netflix's results after market close for insights into its ad business and live programming. The streaming giant has recently weathered a volatile stretch for its stock.\n\nWorries about US-China trade tensions moved to the back burner even as the two countries prepared the ground for negotiations to resume. Trump signed a rare earths deal with Australia, a move aimed squarely at China. But the president said he expects to reach a “fair deal” when he meets his Chinese counterpart, President Xi, in South Korea next week.\n\nMeanwhile, the government shutdown continues, now the third-longest federal work stoppage in US history. There are no plans in motion to end the closure, even as economic pressures mount.\n\nThat puts the spotlight on Federal Reserve speakers, with ears pricked for clues into the central bank's thinking on interest rates ahead of its policy meeting next week.\n\nFed Governor Christopher Waller is scheduled to appear on Tuesday in the run-up to the Bureau of Labor Statistics finally releasing the September Consumer Price Index report on Friday. That inflation data could move the needle for markets, which are currently pricing in another quarter-point rate cut.\n\nLIVE COVERAGE IS OVER 23 updates\nWed, October 22, 2025 at 5:33 AM GMT+9\nInes Ferré\nNetflix stock tanks 5% as tax dispute with Brazil hits profit\n\nNetflix (NFLX) stock tanked more than 5% on Tuesday after the streaming giant said a tax dispute with Brazil impacted the company’s third quarter earnings.\n\nThe company’s quarterly net income of $3.24 billion came in about $400 million below the estimates expected by Wall Street.\n\nNetflix paid $619 million to settle a tax dispute with Brazil. The company assured it would have posted higher profits had i"
+    },
+    {
+      "title": "Congress Aims For New Tech Restrictions Targeting China In NDAA",
+      "description": "The annual defense policy bill includes several amendments aimed at limiting China's access to US advanced technology. However, their chances of passing are unclear.",
+      "url": "https://www.forbes.com/sites/owentedford/2025/10/21/congress-aims-for-new-tech-restrictions-targeting-china-in-ndaa/",
+      "publishedAt": "2025-10-21T13:19:25Z",
+      "source": "Forbes",
+      "content": "http://dieterspears.com/istock/links/button_election.jpg\r\ngetty\r\nWhile the government shutdown continues with no immediate end in sight, the Senate passed its draft of the FY26 National Defense Autho… [+4965 chars]",
+      "full_content": "The annual defense policy bill includes several amendments aimed at limiting China's access to US advanced technology. However, their chances of passing are unclear."
+    },
+    {
+      "title": "What Triggers The Next Rally In Nvidia Stock?",
+      "description": "Historically, Nvidia has staged multiple powerful rallies - from riding the cryptocurrency boom to capitalizing on the Covid-era gaming and remote work surge.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/10/21/what-triggers-the-next-rally-in-nvidia-stock/",
+      "publishedAt": "2025-10-21T13:15:56Z",
+      "source": "Forbes",
+      "content": "Historically, Nvidia has staged multiple powerful rallies - from riding the cryptocurrency boom to capitalizing on the Covid-era gaming and remote work surge. The stocks latest ascent, fueled by the … [+4219 chars]",
+      "full_content": "Historically, Nvidia has staged multiple powerful rallies - from riding the cryptocurrency boom to capitalizing on the Covid-era gaming and remote work surge."
+    },
+    {
+      "title": "Google Cloud launches G4 VMs with Nvidia RTX PRO 6000 Blackwell GPUs",
+      "description": "G4 VMs support up to eight RTX PRO 6000 GPUs with 768GB of GDDR7 memory and high-throughput storage.",
+      "url": "https://www.verdict.co.uk/google-cloud-g4-vms-with-nvidia-rtx-pro-6000/",
+      "publishedAt": "2025-10-21T09:27:59Z",
+      "source": "Verdict",
+      "content": "Google Cloud has made G4 virtual machines (VMs), powered by Nvidia RTX PRO 6000 Blackwell Server Edition graphics processing units (GPUs), generally available.\r\nIt also added Nvidia Omniverse and Nvi… [+3312 chars]",
+      "full_content": "News\nGoogle Cloud launches G4 VMs with Nvidia RTX PRO 6000 Blackwell GPUs\n\nG4 VMs support up to eight RTX PRO 6000 GPUs with 768GB of GDDR7 memory and high-throughput storage.\n\nOctober 21, 2025\nShare\nCopy Link\nShare on X\nShare on Linkedin\nShare on Facebook\nThe Omniverse VMI, along with Nvidia Cosmos and Omniverse Blueprints, enables creation of real-time, physically accurate digital twins. Credit: JHVEPhoto/Shutterstock.com.\n\nGoogle Cloud has made G4 virtual machines (VMs), powered by Nvidia RTX PRO 6000 Blackwell Server Edition graphics processing units (GPUs), generally available.\n\nIt also added Nvidia Omniverse and Nvidia Isaac Sim virtual machine images to the Google Cloud Marketplace to support visual computing, simulation, and physical AI workloads.\n\nG4 VM instances can be configured with up to eight RTX PRO 6000 GPUs, providing a total of 768GB of GDDR7 memory and access to local and network storage with high throughput.\n\nThe instances integrate with Google Cloud’s AI Hypercomputer architecture and with services such as Google Kubernetes Engine, Vertex AI, and Dataproc. This integration supports containerised deployments, machine learning (ML) operations and large-scale analytics on Apache Spark and Hadoop.\n\nThe RTX PRO 6000 Blackwell Server Edition is built on the Nvidia Blackwell architecture and targets AI inference and visual computing workloads.\n\nIt includes fifth-generation Tensor Cores that support FP4 data formats and fourth-generation RT Cores that Nvidia reports deliver more than twice the real-time ray-tracing performance of the previous generation.\n\nGlobalData Strategic Intelligence\nUS Tariffs are shifting - will you react or anticipate?\n\nDon’t let policy changes catch you off guard. Stay proactive with real-time data and expert analysis.\n\nBy GlobalData\nLearn more about Strategic Intelligence\n\nNvidia Omniverse is now available as a Marketplace virtual machine image offering integration libraries and frameworks based on Universal Scene Description (OpenUSD).\n\nThe Omniverse VMI, together with Nvidia Cosmos and Omniverse Blueprints, supports creation and operation of real-time, physically accurate digital twins.\n\nNvidia Isaac Sim is available as a VMI to support training, simulation and validation of robotics in physics-based virtual environments ahead of deployment.\n\nThe range of Nvidia software available on Google Cloud includes models and tools aimed at agentic AI, scientific high-performance computing, and design and visual computing.\n\nThe stack includes the Nemotron family of open reasoning models, Nvidia Blueprints, Nvidia NIM microservices for inference, CUDA-X libraries for scientific workloads, and Nvidia RTX Virtual Workstation software for virtualised design pipelines.\n\nNvidia reported that some genomics sequence-alignment algorithms show up to 6.8x throughput improvement on the RTX PRO 6000 Blackwell GPU versus the prior generation.\n\nGoogle Cloud and Nvidia are presenting these additions as part of a Blackwell-based ar"
+    },
+    {
+      "title": "Does NVIDIA's (NVDA) Desktop AI Supercomputer Shift the Long-Term Growth Outlook?",
+      "description": "NVIDIA has begun shipping the DGX Spark, a compact AI supercomputer developed in partnership with MediaTek, enabling developers to locally prototype and fine...",
+      "url": "https://finance.yahoo.com/news/does-nvidias-nvda-desktop-ai-071226409.html",
+      "publishedAt": "2025-10-21T07:12:26Z",
+      "source": "Yahoo Entertainment",
+      "content": "<ul><li>NVIDIA has begun shipping the DGX Spark, a compact AI supercomputer developed in partnership with MediaTek, enabling developers to locally prototype and fine-tune large AI models using the ul… [+3679 chars]",
+      "full_content": "Does NVIDIA's (NVDA) Desktop AI Supercomputer Shift the Long-Term Growth Outlook?\nSimply Wall St\nTue, October 21, 2025 at 4:12 PM GMT+9 3 min read\nIn this article:\nNVDA\n2454.TW\nMETA\nORCL\n\nNVIDIA has begun shipping the DGX Spark, a compact AI supercomputer developed in partnership with MediaTek, enabling developers to locally prototype and fine-tune large AI models using the ultra-efficient GB10 Grace Blackwell Superchip.\n\nThis advancement, along with new client integrations like Meta and Oracle standardizing NVIDIA networking technologies, dramatically expands access to scalable, high-performance AI development beyond traditional cloud or data center environments.\n\nWe’ll explore how bringing petascale AI power to the desktop shapes NVIDIA’s long-term investment narrative and industry positioning.\n\nAI is about to change healthcare. These 33 stocks are working on everything from early diagnostics to drug discovery. The best part - they are all under $10b in market cap - there's still time to get in early.\n\nNVIDIA Investment Narrative Recap\n\nTo be an NVIDIA shareholder today, you need to believe in the continued global surge in AI infrastructure spending and NVIDIA’s ability to maintain technology leadership and premium margins, despite mounting competition and geopolitical risks. The recent launch of the DGX Spark desktop AI supercomputer is an impressive technological step, but it does not appear to materially shift the near-term catalysts or risks, particularly ongoing US-China trade tension and customer vertical integration, both of which remain key uncertainties to watch. Among recent announcements, Oracle’s launch of the OCI Zettascale10, powered by NVIDIA’s AI infrastructure, stands out as highly relevant. This underlines the importance of partnerships in sustaining AI demand and scale, tying directly to near-term revenue catalysts, even as NVIDIA’s market share faces structural pressures from hyperscaler customers developing their own custom silicon. Yet despite these solid catalysts, it’s important for investors to recognize that mounting power constraints and export risks could limit NVIDIA’s long-term upside if...\n\nRead the full narrative on NVIDIA (it's free!)\n\nNVIDIA's narrative projects $337.2 billion revenue and $187.9 billion earnings by 2028. This requires 26.8% yearly revenue growth and a $101.3 billion increase in earnings from $86.6 billion today.\n\nUncover how NVIDIA's forecasts yield a $218.51 fair value, a 20% upside to its current price.\n\nExploring Other Perspectives\nNVDA Community Fair Values as at Oct 2025\n\nOver 400 fair value estimates from Simply Wall St Community members place NVIDIA’s worth anywhere from US$90.15 to US$341.12 per share. Your view on the supply chain’s ability to meet surging demand could tip your assessment of the company’s prospects amid global competition and capacity challenges. Explore alternative perspectives to shape your investment approach.\n\nStory Continues\nTerms and Privacy Policy\nPrivacy Dashbo"
+    },
+    {
+      "title": "Nvidia CEO Says Company Went from 95% to 0 Market Share in China",
+      "description": "Nvidia CEO Jensen Huang says his company has lost all access to China's market after U.S. export restrictions eliminated what was once a 95% share. Speaking in an interview with Citadel Securities, Huang questioned the wisdom of policies that cost America one…",
+      "url": "https://tech.slashdot.org/story/25/10/20/1934203/nvidia-ceo-says-company-went-from-95-to-0-market-share-in-china",
+      "publishedAt": "2025-10-20T20:05:00Z",
+      "source": "Slashdot.org",
+      "content": "The US: \"You arent buying enough from us! You need to buy more from us!\"\r\nAlso the US: \"You cant buy basically anything that you actually need, we forbid it - buy more cheap bulk goods that you can g… [+76 chars]",
+      "full_content": " \nNvidia CEO Says Company Went from 95% to 0 Market Share in China (fortune.com)\n96\nPosted by msmash on Monday October 20, 2025 @04:05PM from the tough-luck dept.\nNvidia CEO Jensen Huang says his company has lost all access to China's market after U.S. export restrictions eliminated what was once a 95% share. Speaking in an interview with Citadel Securities, Huang questioned the wisdom of policies that cost America one of the world's largest markets.\n\nThe Biden Administration imposed rules in 2022 to restrict exports of Nvidia's most advanced AI chips to China. The Trump Administration blocked additional chip sales in April and later granted export licenses for certain Nvidia and AMD chips in exchange for 15% of revenues. Chinese regulators responded by telling domestic tech companies to avoid Nvidia chips designed to meet U.S. export requirements. Beijing also placed strict limits on exports of rare earths. Huang noted that about half the world's AI researchers are in China and called it a mistake not to have them build AI on American technology.\n\n←\nRelated Links\n→\nGoogle To Let 'Superfans' Test In-Development Pixel Phones\nNvidia and AMD To Pay 15% of China Chip Sale Revenues To US Government\nChina Tells Its Tech Companies To Stop Buying All of Nvidia's AI Chips\nLouvre Museum Security 'Outdated and Inadequate' at Time of Heist"
+    }
+  ]
+}

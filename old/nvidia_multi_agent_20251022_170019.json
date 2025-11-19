@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-10-22T17:00:19.787660",
+  "prediction": {
+    "direction": "Hold",
+    "confidence": 0,
+    "timeframe": 0,
+    "positive_factors": [],
+    "negative_factors": [],
+    "summary": "수집된 뉴스가 없습니다.",
+    "is_valid": false,
+    "reason_if_invalid": "수집된 뉴스가 없습니다."
+  }
+}
